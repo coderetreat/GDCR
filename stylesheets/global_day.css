@@ -11,6 +11,10 @@ img {
   border: none;
 }
 
+ul li {
+  list-style-type: none;
+}
+
 .global_day #main {
   float: left;
   width: 684px;
@@ -60,3 +64,6 @@ img {
   padding: 5px;
 }
 
+ul.media_kit.cr_shots li {
+  display: inline;
+}
