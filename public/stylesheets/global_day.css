@@ -40,10 +40,10 @@ ul li {
 
 #sponsor-sidebar {
   float: left;
-  width: 220px;
+  width: 180px;
   /* min-height: 381px; */
   margin: 16px 0px 0px 16px;
-  padding: 20px 0 40px 0;
+  padding: 20px 20px 40px 20px;
   background: #fffacb url(/images/bg-content-btm.jpg) repeat-x bottom left;
   text-align: center;
 }
