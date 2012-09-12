@@ -6,9 +6,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #e68d36;
 }
 h1 {
-  font-size: 2em;
+  font-size: 1.6em;
 }
 h2 {
+  font-size: 1.2em;
 }
 div#content h2 {
   margin-bottom: 0;
