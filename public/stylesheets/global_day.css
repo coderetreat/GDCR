@@ -24,6 +24,8 @@ ul li {
 #header #logo img {
    border: 0;
    margin-top: 15px;
+   margin-left: 20px;
+   margin-bottom: 15px;
 }
 
 #header h1 {
