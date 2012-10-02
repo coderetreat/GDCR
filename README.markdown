@@ -12,4 +12,4 @@ Browse: http://globalday.coderetreat.org
 
   rackup
 
-Browse: to [http://localhost:9292]
+Browse to http://localhost:9292
