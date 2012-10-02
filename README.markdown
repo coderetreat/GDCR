@@ -2,6 +2,8 @@
 
 The official site for the Global Day of Coderetreat.
 
+Browse: http://globalday.coderetreat.org
+
 ## Setup
 
   bundle install
@@ -10,6 +12,4 @@ The official site for the Global Day of Coderetreat.
 
   rackup
 
-Browse: to http://localhost:9292
-
-Browse: http://globalday.coderetreat.org
+Browse: to [http://localhost:9292]
