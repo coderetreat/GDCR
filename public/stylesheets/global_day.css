@@ -54,16 +54,52 @@ ul li {
   margin-top: 15px;
 }
 
-#sponsor-sidebar .sponsors ul {
-  /* background-color: #d73513; */
-  width: 216px;
-  padding: 0;
+#sponsor-sidebar section.sponsor {
+  padding-bottom: 10px;
+  border-top: 1px solid #E68D36;
 }
-#sponsor-sidebar .sponsors ul li {
-  list-style-type: none;
-  font-size: 1.3em;
+
+#sponsor-sidebar section.sponsor:first-of-type {
+  border-top: 0;
+}
+
+#sponsor-sidebar section.sponsor.galaxy {
+  font-size: 1.2em;
   line-height: 1.8;
-  padding: 5px;
+}
+
+.global_day #main #content section.sponsors {
+  width: 100%;
+  text-align: center;
+}
+
+.global_day #main #content section.sponsors section.sponsor {
+  margin-bottom: 40px;
+  font-size: 1.4em;
+  color: #995E24;
+}
+
+.global_day #main #content section.sponsors section.sponsor header {
+  margin-bottom: 10px;
+}
+
+.global_day #main #content section.sponsors section.sponsor ul {
+  padding: 0;
+  margin: 0;
+}
+
+.global_day #main #content section.sponsors section.sponsor ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+.global_day #main #content section.sponsors section.sponsor ul li img {
+  vertical-align:middle;
+  margin-right: 20px;
+}
+
+.global_day #main #content section.sponsors section.sponsor.galaxy {
+  font-size: 1.8em;
 }
 
 ul.media_kit.cr_shots li {
