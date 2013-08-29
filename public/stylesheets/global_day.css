@@ -21,6 +21,14 @@ ul li {
   margin-left: 0px;
   margin-top: 16px;
 }
+
+.sponsorless #main {
+  float: left;
+  width: 921px;
+  margin-left: 0px;
+  margin-top: 16px;
+}
+
 #header #logo img {
    border: 0;
    margin-top: 15px;
