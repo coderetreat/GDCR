@@ -12,6 +12,10 @@ img {
 }
 
 ul li {
+  padding-top: 0.3em;
+}
+
+.sponsors ul li {
   list-style-type: none;
 }
 
