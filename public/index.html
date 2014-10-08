@@ -98,6 +98,29 @@
       return new ol.geom.Point(coords);
     };
 
+    var styleCache = {};
+    var countriesLayer = new ol.layer.Vector({
+      source: new ol.source.GeoJSON({
+        projection: 'EPSG:3857',
+        url: 'geodata/countries.geojson'
+      }),
+      style: function(feature, resolution) {
+        var text = resolution < 5000 ? feature.get('name') : '';
+        if (!styleCache[text]) {
+          styleCache[text] = [new ol.style.Style({
+            fill: new ol.style.Fill({
+              color: '#3C3C3C'
+            }),
+            stroke: new ol.style.Stroke({
+              color: '#3F3F3F',
+              width: 1
+            })
+          })];
+        }
+        return styleCache[text];
+      }
+    });
+
     var eventIconStyle = new ol.style.Style({
       image: new ol.style.Icon({
         scale: 0.05,
@@ -120,16 +143,12 @@
       );
     })
 
-    var world = new ol.layer.Tile({
-          source: new ol.source.MapQuest({layer: 'sat'})
-    });
-
     var map = new ol.Map({
       target: 'map',
-      layers: [world, events],
+      layers: [countriesLayer, events],
       view: new ol.View({
-        center: translateToMapCoords([25, 14]),
-        zoom: 1.5
+        center: translateToMapCoords([0, 40]),
+        zoom: 1.2
       })
     });
     </script>
