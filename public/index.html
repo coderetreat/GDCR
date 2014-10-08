@@ -65,93 +65,10 @@
       <div class="container-wide">
       </div><!--/container-->
     </div><!--/footer-->
+
     <script type="text/javascript" src="/js/jquery.min.js"></script>
-    <script src="http://ol3js.org/en/master/build/ol.js" type="text/javascript"></script>
-    <script>  // Configuration data
-    var locations = [
-      {city: 'Cotonou, Benin', coords: [6.362485, 2.425479]},
-      {city: 'Paris, France', coords: [48.856638, 2.352241]},
-      {city: 'Osnabrück, Germany', coords: [52.267330, 8.053185]},
-      {city: 'Budapest, Hungary', coords: [47.498603, 19.040991]},
-      {city: 'Tel Aviv. Israel', coords: [32.06632, 34.77782]},
-      {city: 'Padua, Italy', coords: [45.409593, 11.876561]},
-      {city: 'Guadalajara, JAL, Mexico', coords: [20.673672, -103.343818]},
-      {city: 'Wellington, New Zealand', coords: [-41.292427, 174.773228]},
-      {city: 'Oslo, Norway', coords: [59.914225, 10.75256]},
-      {city: 'Katowice, Poland', coords: [50.265100, 19.023063]},
-      {city: 'Lodz, Poland', coords: [51.686014, 19.701049]},
-      {city: 'Timișoara, Romania', coords: [45.759780, 21.230020]},
-      {city: 'Cambridge, UK', coords: [52.202600, 0.131224]},
-      {city: 'Des Moines, IA', coords: [41.600397, -93.608982]},
-      {city: 'Pittsburgh, PA', coords: [40.440797, -79.995846]},
-      {city: 'Portland, OR', coords: [45.523824, -122.676443]},
-    ];
-    </script>
-
-    <script>
-    var translateToMapCoords = function(coords) {
-      return ol.proj.transform(coords, 'EPSG:4326', 'EPSG:3857')
-    }
-
-    var toPoint = function(loc) {
-      var coords = translateToMapCoords([loc.coords[1], loc.coords[0]]);
-      return new ol.geom.Point(coords);
-    };
-
-    var styleCache = {};
-    var countriesLayer = new ol.layer.Vector({
-      source: new ol.source.GeoJSON({
-        projection: 'EPSG:3857',
-        url: 'geodata/countries.geojson'
-      }),
-      style: function(feature, resolution) {
-        var text = resolution < 5000 ? feature.get('name') : '';
-        if (!styleCache[text]) {
-          styleCache[text] = [new ol.style.Style({
-            fill: new ol.style.Fill({
-              color: '#3C3C3C'
-            }),
-            stroke: new ol.style.Stroke({
-              color: '#3F3F3F',
-              width: 1
-            })
-          })];
-        }
-        return styleCache[text];
-      }
-    });
-
-    var eventIconStyle = new ol.style.Style({
-      image: new ol.style.Icon({
-        scale: 0.05,
-        anchor: [0.5, 1],
-        src: 'images/map-pin.png'
-      })
-    });
-
-    var events = new ol.layer.Vector({
-      source: new ol.source.Vector(),
-      style: eventIconStyle
-    });
-
-    $.each(locations, function() {
-      events.getSource().addFeature(
-        new ol.Feature({
-          geometry: toPoint(this),
-          name: this.city
-        })
-      );
-    })
-
-    var map = new ol.Map({
-      target: 'map',
-      layers: [countriesLayer, events],
-      view: new ol.View({
-        center: translateToMapCoords([0, 40]),
-        zoom: 1.2
-      })
-    });
-    </script>
+    <script type="text/javascript" src="/js/openlayers3.js"></script>
+    <script type="text/javascript" src="/js/map.js"></script>
 
 </body>
 </html>
