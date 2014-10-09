@@ -1,0 +1,18 @@
+[
+      {"city": "Cotonou, Benin", "coords": [6.362485, 2.425479]},
+      {"city": "Paris, France", "coords": [48.856638, 2.352241]},
+      {"city": "Osnabrück, Germany", "coords": [52.267330, 8.053185]},
+      {"city": "Budapest, Hungary", "coords": [47.498603, 19.040991]},
+      {"city": "Tel Aviv. Israel", "coords": [32.06632, 34.77782]},
+      {"city": "Padua, Italy", "coords": [45.409593, 11.876561]},
+      {"city": "Guadalajara, JAL, Mexico", "coords": [20.673672, -103.343818]},
+      {"city": "Wellington, New Zealand", "coords": [-41.292427, 174.773228]},
+      {"city": "Oslo, Norway", "coords": [59.914225, 10.75256]},
+      {"city": "Katowice, Poland", "coords": [50.265100, 19.023063]},
+      {"city": "Lodz, Poland", "coords": [51.686014, 19.701049]},
+      {"city": "Timișoara, Romania", "coords": [45.759780, 21.230020]},
+      {"city": "Cambridge, UK", "coords": [52.202600, 0.131224]},
+      {"city": "Des Moines, IA", "coords": [41.600397, -93.608982]},
+      {"city": "Pittsburgh, PA", "coords": [40.440797, -79.995846]},
+      {"city": "Portland, OR", "coords": [45.523824, -122.676443]}
+]
