@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
-ruby '1.9.3'
+source "https://rubygems.org"
+ruby "2.1.2"
 
-gem 'rack', '1.4'
+gem "sinatra", "~> 1.4.5"
