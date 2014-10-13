@@ -8,6 +8,10 @@ get "/hosts" do
   erb :faq
 end
 
+get "/print.css" do
+  scss :print
+end
+
 def serve_pages pages
   pages.each { |page| serve_page page }
 end
