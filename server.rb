@@ -5,9 +5,26 @@ get "/" do
 end
 
 get "/hosts" do
-  send_file "public/hosts/faq.html"
+  erb :faq
 end
 
-get "/hosts/" do
-  send_file "public/hosts/faq.html"
+def serve_pages pages
+  pages.each { |page| serve_page page }
 end
+
+def serve_page path
+  get("/#{path}") { erb template_for_path(path) }
+  get("/#{path}.html") { erb template_for_path(path) }
+end
+
+def template_for_path path
+  path.split("/").last.to_sym
+end
+
+serve_pages(["hosts",
+             "hosts/faq",
+             "hosts/guide",
+             "hosts/media_pack",
+             "survey",
+             "sponsors",
+])
