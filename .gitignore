@@ -19,3 +19,4 @@ src/*
 _site/Gemfile
 _site/Gemfile.lock
 _site/config.ru
+.sass-cache
