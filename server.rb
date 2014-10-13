@@ -1,7 +1,7 @@
 require "sinatra"
 
 get "/" do
-  send_file "public/index.html"
+  erb :index
 end
 
 get "/hosts" do
