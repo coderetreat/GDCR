@@ -1,26 +1,23 @@
 require "yaml"
-require "geocoder"
 require "json"
-
-Geocoder.configure(timeout: 10)
 
 locations_json_path = "public/data/locations.json"
 locations_yml_path = "data/locations.yml"
 
-desc "Tasks that need to be run on Heroku before the app can be deployed"
-task :default => :locations
+task :geocode_locations_for_map => locations_json_path
 
-task :locations => [locations_json_path]
-
-file locations_json_path => locations_yml_path do
-  cities = YAML.load_file(locations_yml_path)
+file locations_json_path => [locations_yml_path, :initialize_geocoder] do
+  cities = YAML.load_file(locations_yml_path).uniq
   locations = cities.map do |city|
-    puts "Looking for #{city}"
     coords = Geocoder.search(city).first.geometry["location"]
     {"city" => city, "coords" => [coords["lat"], coords["lng"]]}
   end
-  locations_json = format_json(locations)
-  File.write(locations_json_path, locations_json)
+  File.write(locations_json_path, format_json(locations))
+end
+
+task :initialize_geocoder do
+  require "geocoder"
+  Geocoder.configure(timeout: 10)
 end
 
 def format_json data
