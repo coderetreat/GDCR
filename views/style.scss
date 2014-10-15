@@ -97,3 +97,22 @@ h2 {
   color: $dark;
   padding: $gutter;
 }
+
+.sponsors {
+  .sponsor-level {
+    @include fill-parent;
+    h3 { @include span-columns(4 of 12); }
+    .sponsors-container { @include span-columns(8 of 12); }
+    padding-top: $gutter;
+    overflow: hidden;
+    &.globe .sponsor { @include span-columns(4); }
+    &.continent .sponsor { @include span-columns(3);}
+  }
+  .sponsor {
+    float: left;
+  }
+  .sponsor img {
+    @include fill-parent;
+    @include clearfix;
+  }
+}

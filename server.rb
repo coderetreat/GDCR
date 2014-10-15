@@ -41,3 +41,27 @@ serve_pages(["hosts",
 def event_count
   JSON.parse(File.read("public/data/locations.json")).count
 end
+
+class Sponsor
+  def initialize name, url
+    @name, @url = name, url
+  end
+
+  def logo_path
+    "images/sponsors/#{name.downcase}_logo.png"
+  end
+
+  attr_reader :name, :url
+end
+
+def globe_sponsors
+  [
+    Sponsor.new('Github', 'https://github.com'),
+  ]
+end
+
+def continent_sponsors
+  [
+    Sponsor.new('DNSimple', 'https://www.dnsimple.com/'),
+  ]
+end
