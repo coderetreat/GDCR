@@ -18,6 +18,19 @@ section {
   @include outer-container;
 }
 
+.navbar {
+  padding: $gutter/2 0;
+  position: fixed;
+  width: 100%;
+  background-color: $light;
+  .navbar-inner {
+    @include outer-container;
+    .logo img { max-height: 3em; }
+  }
+  box-shadow: 0 0 8px 0 black;
+  z-index: 50;
+}
+
 h2 {
   text-align: center;
   font-family: $title;
