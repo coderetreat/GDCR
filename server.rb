@@ -1,4 +1,5 @@
 require "sinatra"
+require "json"
 
 get "/" do
   erb :index
@@ -36,3 +37,7 @@ serve_pages(["hosts",
              "survey",
              "sponsors",
 ])
+
+def event_count
+  JSON.parse(File.read("public/data/locations.json")).count
+end

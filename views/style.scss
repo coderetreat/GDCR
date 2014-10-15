@@ -1,5 +1,77 @@
-@import "stylesheets/main";
-@import "stylesheets/layout";
-@import "stylesheets/type";
-@import "stylesheets/global_day";
-@import "stylesheets/fonts";
+@import "stylesheets/bourbon/bourbon";
+@import "stylesheets/neat/neat";
+
+$dark: #4a4a4a;
+$title: bree;
+$green: #90a959;
+$light: #F5F5F5;
+
+html, body {
+  margin: 0;
+  background-color: $light;
+  color: $dark;
+  padding-bottom: $gutter;
+}
+
+section {
+  padding: $gutter 0;
+  @include outer-container;
+}
+
+h2 {
+  text-align: center;
+  font-family: $title;
+}
+
+#hero {
+  height: 90vh;
+  overflow: hidden;
+  background-image: url("images/mountain_path.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  .header {
+    @include span-columns(6 of 12);
+    @include shift(5);
+    font-family: $title;
+    margin-top: 8em;
+    font-size: 1.6em;
+    color: $dark;
+    text-align: center;
+  }
+}
+
+#map {
+  @include span-columns(8 of 12);
+  height: 400px;
+}
+
+.map-aside {
+  @include span-columns(4 of 12);
+}
+
+.button {
+  background-color: $green;
+  text-decoration: none;
+  color: $light;
+  font-size: 1.2em;
+  padding: $gutter/1.2;
+  display: block;
+  text-align: center;
+  @include fill-parent;
+  transition: linear 0.5s;
+  &:hover {
+    background-color: lighten($green, 10%);
+  }
+}
+
+.format-background {
+  background-image: url("images/GOL.svg");
+  background-attachment: fixed;
+  width: 100%;
+  padding-bottom: $gutter;
+  color: $light;
+  font-weight: bold;
+}
+.format .step {
+    @include span-columns(3 of 12);
+}
