@@ -34,6 +34,7 @@ section {
 h2 {
   text-align: center;
   font-family: $title;
+  font-size: 1.8em;
 }
 
 #hero {
@@ -43,6 +44,7 @@ h2 {
   background-size: cover;
   background-attachment: fixed;
   .header {
+    h2 { font-size: 1.5em; }
     @include span-columns(6 of 12);
     @include shift(5);
     font-family: $title;
