@@ -18,13 +18,8 @@ $(function() {
       var text = resolution < 5000 ? feature.get('name') : '';
       if (!styleCache[text]) {
         styleCache[text] = [new ol.style.Style({
-          fill: new ol.style.Fill({
-            color: '#3C3C3C'
-          }),
-          stroke: new ol.style.Stroke({
-            color: '#3F3F3F',
-            width: 1
-          })
+          fill: new ol.style.Fill({ color: '#57B26E' }),
+          stroke: new ol.style.Stroke({ color: '#7EC486', width: 1 })
         })];
       }
       return styleCache[text];

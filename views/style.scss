@@ -14,6 +14,7 @@ html, body {
 
 section {
   padding: $gutter 0;
+  padding-bottom: $gutter*2;
   @include outer-container;
 }
 
@@ -53,8 +54,12 @@ h2 {
 }
 
 #map {
+  $map-border: $gutter*8;
   @include span-columns(8 of 12);
   height: 400px;
+  background-color: $blue;
+  border-radius: $map-border;
+  canvas { border-radius: $map-border; }
 }
 
 .map-aside {
@@ -74,13 +79,13 @@ h2 {
   &:hover {
     background-color: $lightgreen;
   }
+  border-radius: 4px;
 }
 
 .format-background {
   background-image: url("images/GOL.svg");
   background-attachment: fixed;
   width: 100%;
-  padding-bottom: $gutter;
   color: $light;
   font-weight: bold;
 }
