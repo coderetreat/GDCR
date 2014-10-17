@@ -1,15 +1,16 @@
 @import "stylesheets/bourbon/bourbon";
 @import "stylesheets/neat/neat";
+@import "stylesheets/fonts";
 
 @import "stylesheets/colors";
-
-$title: bree;
 
 html, body {
   margin: 0;
   background-color: $light;
   color: $dark;
   padding-bottom: $gutter;
+  line-height: $gutter;
+  font-family: $body-font;
 }
 
 section {
@@ -33,7 +34,7 @@ section {
 
 h2 {
   text-align: center;
-  font-family: $title;
+  font-family: $title-font;
   font-size: 1.8em;
 }
 
@@ -44,10 +45,11 @@ h2 {
   background-size: cover;
   background-attachment: fixed;
   .header {
+    h1 { font-family: "OrbitronBlack"; }
     h2 { font-size: 1.5em; }
-    @include span-columns(6 of 12);
-    @include shift(5);
-    font-family: $title;
+    @include span-columns(7 of 12);
+    @include shift(4.5);
+    font-family: $title-font;
     margin-top: 8em;
     font-size: 1.6em;
     color: $dark;
@@ -89,7 +91,6 @@ h2 {
   background-attachment: fixed;
   width: 100%;
   color: $light;
-  font-weight: bold;
 }
 .format .step {
   @include span-columns(3 of 12);
