@@ -107,6 +107,18 @@ h2 {
   padding: $gutter;
 }
 
+.host {
+  .host-aside {
+    @include span-columns(4 of 12);
+  }
+  .host-pictures {
+    @include span-columns(8 of 12);
+    img {
+      @include fill-parent;
+    }
+  }
+}
+
 .sponsors {
   .sponsor-level {
     @include fill-parent;
