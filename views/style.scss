@@ -1,8 +1,9 @@
 @import "stylesheets/bourbon/bourbon";
 @import "stylesheets/neat/neat";
-@import "stylesheets/fonts";
 
+@import "stylesheets/fonts";
 @import "stylesheets/colors";
+@import "stylesheets/transparent-overlay";
 
 html, body {
   margin: 0;
@@ -113,6 +114,7 @@ h2 {
   }
   .host-pictures {
     @include span-columns(8 of 12);
+    @include transparent-overlay(0.7);
     img {
       @include fill-parent;
     }
