@@ -30,17 +30,25 @@ section {
   @include outer-container;
 }
 
+$navbar-height: 3*$gutter;
+$navbar-padding: $gutter/2;
 .navbar {
-  padding: $gutter/2 0;
+  padding: $navbar-padding 0;
   position: fixed;
+  top: 0;
   width: 100%;
   background-color: $light;
   .navbar-inner {
     @include outer-container;
-    .logo img { max-height: 3em; }
+    .logo img { max-height: $navbar-height - 2*$navbar-padding; }
   }
   box-shadow: 0 0 8px 0 black;
   z-index: 50;
+  height: $navbar-height;
+}
+
+.container {
+  margin-top: $navbar-height;
 }
 
 h2 {

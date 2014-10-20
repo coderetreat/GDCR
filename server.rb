@@ -1,5 +1,6 @@
 require "sinatra"
 require "json"
+require "sass"
 
 get "/" do
   erb :index
