@@ -7,7 +7,7 @@ get "/" do
 end
 
 get "/hosts" do
-  erb :faq
+  erb :hosts
 end
 
 get "/style.css" do

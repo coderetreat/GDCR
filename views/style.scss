@@ -51,11 +51,14 @@ $navbar-padding: $gutter/2;
   margin-top: $navbar-height;
 }
 
-h2 {
-  text-align: center;
+h1, h2, h3 {
   font-family: $title-font;
-  font-size: 1.8em;
 }
+h1, h2 {
+  text-align: center;
+}
+h1 { font-size: 2em; }
+h2 { font-size: 1.8em; }
 
 #hero {
   height: 90vh;
@@ -156,5 +159,43 @@ h2 {
   .sponsor img {
     @include fill-parent;
     @include clearfix;
+  }
+}
+
+.hosting .description {
+  margin-top: 2 * $gutter;
+}
+
+form {
+  border-top: 1px solid $dark;
+  padding-top: $gutter;
+  .form-item {
+    @include fill-parent;
+    padding-top: $gutter;
+    label {
+      @include span-columns(4 of 12);
+      text-align: right;
+    }
+    input[type="text"], .choices {
+      @include span-columns(4 of 12);
+    }
+    .choices .choice {
+      @include fill-parent;
+    }
+    @include clearfix;
+  }
+  input[type="text"] {
+    padding: $gutter/2;
+  }
+  label.help {
+    opacity: 0.5;
+    text-align: left;
+  }
+
+  .submit {
+    margin-top: $gutter*2;
+    @include span-columns(4 of 12);
+    @include shift(4);
+    border: none;
   }
 }
