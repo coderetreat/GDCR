@@ -107,7 +107,7 @@ h2 { font-size: 1.8em; }
   padding: $gutter;
 }
 
-.host {
+.hosting {
   .host-contents {
     overflow: hidden;
   }
@@ -146,6 +146,7 @@ h2 { font-size: 1.8em; }
   }
 }
 
+// TODO namespace clash
 .hosting .description {
   margin-top: 2 * $gutter;
 }
