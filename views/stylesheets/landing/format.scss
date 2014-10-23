@@ -11,4 +11,7 @@
   opacity: 0.9;
   color: $dark;
   padding: $gutter;
+  @include media($mobile) {
+    @include fill-parent;
+  }
 }
