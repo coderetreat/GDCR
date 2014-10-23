@@ -5,8 +5,16 @@
   background-color: $blue;
   border-radius: $map-border;
   canvas { border-radius: $map-border; }
+  @include media($mobile) {
+    @include fill-parent;
+    height: 200px;
+  }
 }
 
 .map-aside {
   @include span-columns(4 of 12);
+  @include media($mobile) {
+    @include fill-parent;
+    padding: $gutter;
+  }
 }

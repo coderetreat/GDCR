@@ -27,6 +27,9 @@ section {
   padding: $gutter 0;
   padding-bottom: $gutter*2;
   @include outer-container;
+  @include media($mobile) {
+    padding: $gutter;
+  }
 }
 
 h1, h2, h3 {
