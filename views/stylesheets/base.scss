@@ -8,6 +8,9 @@ html, body {
   padding-bottom: $gutter;
   line-height: $gutter;
   font-family: $body-font;
+  @include media($mobile) {
+    font-size: 8px;
+  }
 }
 
 p {
@@ -32,7 +35,10 @@ h1, h2, h3 {
 h1, h2 {
   text-align: center;
 }
-h1 { font-size: 2em; }
+h1 {
+  font-size: 2em;
+  line-height: 1.2em;
+}
 h2 { font-size: 1.8em; }
 
 .button {

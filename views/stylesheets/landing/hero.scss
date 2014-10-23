@@ -15,4 +15,16 @@
     color: $dark;
     text-align: center;
   }
+  @include media($mobile) {
+    $bg-height: 800vw / 14;
+    background-size: 100% $bg-height;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: auto;
+    .header {
+      margin-top: $bg-height;
+      @include fill-parent;
+      @include shift(0);
+    }
+  }
 }
