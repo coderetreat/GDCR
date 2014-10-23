@@ -187,12 +187,26 @@ form {
 
 .coderdojo-background {
   background-color: $blue;
-  .description {
-    @include span-columns(6 of 12);
-    @include shift(3);
-    img {
-      @include span-columns(2 of 6);
-      @include shift(2 of 6);
+  .content {
+    .video {
+      @include span-columns(6 of 12);
+      iframe {
+        @include fill-parent;
+        min-height: 350px;
+      }
+    }
+    .description {
+      @include span-columns(6 of 12);
+      .coderdojo-link {
+        @include fill-parent;
+        overflow: hidden;
+        display: block;
+        margin-bottom: $gutter;
+        img {
+          @include span-columns(2 of 6);
+          @include shift(2 of 6);
+        }
+      }
     }
   }
 }
