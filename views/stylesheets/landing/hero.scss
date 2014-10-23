@@ -22,6 +22,9 @@
       background-color: $light;
       opacity: 0.7;
     }
+    padding: $gutter;
+    height: auto;
+    min-height: $bg-height;
     background-size: 100% $bg-height;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -31,8 +34,8 @@
     background-size: 100% $bg-height;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    height: auto;
     .header {
+      opacity: 1;
       h1 { display: none; }
       padding: 0 $gutter;
       h2 { font-size: 1.3em; }
