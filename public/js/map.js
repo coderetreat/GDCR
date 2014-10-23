@@ -56,8 +56,17 @@ $(function() {
     })
 
     var map = new ol.Map({
-      target: 'map',
+      controls: ol.control.defaults({
+        attributionOptions: /** @type {olx.control.AttributionOptions} */ ({
+          collapsible: false
+        })
+      }).extend([
+        new ol.control.FullScreen({
+          zoom: 5
+        })
+      ]),
       layers: [countriesLayer, events],
+      target: 'map',
       view: new ol.View({
         center: translateToMapCoords([0, 40]),
         zoom: 1.2
