@@ -9,6 +9,9 @@
     @include fill-parent;
     height: 200px;
   }
+  @include media($tablet) {
+    @include span-columns(6 of 12);
+  }
 }
 
 .map-aside {
@@ -16,5 +19,8 @@
   @include media($mobile) {
     @include fill-parent;
     padding: $gutter;
+  }
+  @include media($tablet) {
+    @include span-columns(6 of 12);
   }
 }

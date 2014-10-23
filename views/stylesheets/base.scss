@@ -30,7 +30,7 @@ section {
   padding: $gutter 0;
   padding-bottom: $gutter*2;
   @include outer-container;
-  @include media($mobile) {
+  @include media($tablet) {
     padding: $gutter;
   }
 }

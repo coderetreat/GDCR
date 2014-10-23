@@ -11,7 +11,7 @@
     @include shift(3);
   }
 
-  @include media($mobile) {
+  @include media($tablet) {
     .host-aside { @include fill-parent; }
     .host-pictures {
       @include fill-parent;

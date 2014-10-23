@@ -17,6 +17,16 @@
     text-align: center;
   }
   @include media($tablet) {
+    .header {
+      margin-top: $gutter;
+      background-color: $light;
+      opacity: 0.7;
+    }
+    background-size: 100% $bg-height;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+  @include media($mobile) {
     background-image: url("images/mountain_path_with_title.svg");
     background-size: 100% $bg-height;
     background-repeat: no-repeat;
