@@ -1,0 +1,12 @@
+#map {
+  $map-border: $gutter*8;
+  @include span-columns(8 of 12);
+  height: 400px;
+  background-color: $blue;
+  border-radius: $map-border;
+  canvas { border-radius: $map-border; }
+}
+
+.map-aside {
+  @include span-columns(4 of 12);
+}

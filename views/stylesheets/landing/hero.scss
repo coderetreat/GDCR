@@ -1,0 +1,18 @@
+#hero {
+  height: 90vh;
+  overflow: hidden;
+  background-image: url("images/mountain_path.svg");
+  background-size: cover;
+  background-attachment: fixed;
+  .header {
+    h1 { font-family: "OrbitronBlack"; }
+    h2 { font-size: 1.5em; }
+    @include span-columns(7 of 12);
+    @include shift(4.5);
+    font-family: $title-font;
+    margin-top: 8em;
+    font-size: 1.6em;
+    color: $dark;
+    text-align: center;
+  }
+}
