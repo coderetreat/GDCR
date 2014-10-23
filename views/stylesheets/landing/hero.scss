@@ -22,6 +22,8 @@
     background-attachment: scroll;
     height: auto;
     .header {
+      padding: 0 $gutter;
+      h2 { font-size: 1.3em; }
       margin-top: $bg-height;
       @include fill-parent;
       @include shift(0);
