@@ -21,5 +21,24 @@
         }
       }
     }
+    @include media($mobile) {
+      .video {
+        @include fill-parent;
+        iframe {
+          min-height: 200px;
+          height: 200px;
+        }
+      }
+      .description {
+        @include fill-parent;
+        .coderdojo-link {
+          margin-top: $gutter;
+        }
+        img {
+          @include span-columns(2 of 4);
+          @include shift(0);
+        }
+      }
+    }
   }
 }

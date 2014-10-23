@@ -17,7 +17,7 @@
       @include fill-parent;
       .copy { width: 80%; }
     }
-    button {
+    .button {
       @include fill-parent;
       @include shift(0);
     }
