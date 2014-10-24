@@ -20,3 +20,8 @@
 .hosting .description {
   margin-top: 2 * $gutter;
 }
+
+#content {
+  @include outer-container;
+  padding-top: $gutter;
+}
