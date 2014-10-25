@@ -67,7 +67,9 @@ $(function() {
       target: 'map',
       view: new ol.View({
         center: translateToMapCoords([0, 40]),
-        zoom: 1.2
+        zoom: 1.2,
+        minZoom: 1.2,
+        maxZoom: 7
       })
     });
   })
