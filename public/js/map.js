@@ -51,6 +51,9 @@ $(function() {
     })
 
     var map = new ol.Map({
+      interactions: ol.interaction.defaults({
+        mouseWheelZoom: false
+      }),
       controls: ol.control.defaults({
         attributionOptions: /** @type {olx.control.AttributionOptions} */ ({
           collapsible: false
