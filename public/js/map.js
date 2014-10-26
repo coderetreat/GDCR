@@ -69,7 +69,8 @@ $(function() {
         center: translateToMapCoords([0, 40]),
         zoom: 1.2,
         minZoom: 1.2,
-        maxZoom: 7
+        maxZoom: 7,
+        extent: [-17400000,-6040000,19400000,16200000]
       })
     });
   })
