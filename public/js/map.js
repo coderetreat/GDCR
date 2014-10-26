@@ -49,25 +49,72 @@ $(function() {
         })
       );
     })
-
-    var map = new ol.Map({
-      interactions: ol.interaction.defaults({
-        mouseWheelZoom: false
-      }),
-      controls: ol.control.defaults({
-        attributionOptions: /** @type {olx.control.AttributionOptions} */ ({
-          collapsible: false
-        })
-      }),
-      layers: [countriesLayer, events],
-      target: 'map',
-      view: new ol.View({
-        center: translateToMapCoords([0, 40]),
-        zoom: 1.2,
-        minZoom: 1.2,
-        maxZoom: 7,
-        extent: [-17400000,-6040000,19400000,16200000]
-      })
-    });
   })
+
+  var popupElem = document.getElementById('popup');
+
+  var popup = new ol.Overlay({
+    element: popupElem,
+    positioning: 'top-center',
+    stopEvent: false
+  });
+
+  var map = new ol.Map({
+    interactions: ol.interaction.defaults({
+      mouseWheelZoom: false
+    }),
+    controls: ol.control.defaults({
+      attributionOptions: /** @type {olx.control.AttributionOptions} */ ({
+        collapsible: false
+      })
+    }),
+    layers: [countriesLayer, events],
+    overlays: [popup],
+    target: document.getElementById('map'),
+    view: new ol.View({
+      center: translateToMapCoords([0, 40]),
+      zoom: 1.2,
+      minZoom: 1.2,
+      maxZoom: 7,
+      extent: [-17400000,-6040000,19400000,16200000]
+    })
+  });
+
+  // display popup on click
+  map.on('click', function(evt) {
+    $(popupElem).popover('destroy');
+    var feature = map.forEachFeatureAtPixel(evt.pixel,
+        function(feature, layer) {
+          if (layer == events)
+             return feature;
+        });
+    if (feature) {
+      var geometry = feature.getGeometry();
+      var coord = geometry.getCoordinates();
+      popup.setPosition(coord);
+      $(popupElem).popover({
+        'animation': false,
+        'placement': 'top',
+        'html': true,
+        'content': feature.get('name')
+      });
+      // workaround for already displayed popovers
+      $( "div.popover-content" ).text(feature.get('name'))
+
+      $(popupElem).popover('show');
+    }
+  });
+
+  // change mouse cursor when over marker
+  $(map.getViewport()).on('mousemove', function(e) {
+    var pixel = map.getEventPixel(e.originalEvent);
+    var hit = map.forEachFeatureAtPixel(pixel, function(feature, layer) {
+      return layer == events;
+    });
+    if (hit) {
+      map.getTarget().style.cursor = 'pointer';
+    } else {
+      map.getTarget().style.cursor = '';
+    }
+  });
 });
