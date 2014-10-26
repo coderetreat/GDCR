@@ -58,11 +58,7 @@ $(function() {
         attributionOptions: /** @type {olx.control.AttributionOptions} */ ({
           collapsible: false
         })
-      }).extend([
-        new ol.control.FullScreen({
-          zoom: 5
-        })
-      ]),
+      }),
       layers: [countriesLayer, events],
       target: 'map',
       view: new ol.View({
