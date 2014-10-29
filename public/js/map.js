@@ -45,7 +45,8 @@ $(function() {
       events.getSource().addFeature(
         new ol.Feature({
           geometry: toPoint(this),
-          name: this.name
+          name: this.name,
+          urls: this.urls
         })
       );
     })
@@ -56,7 +57,8 @@ $(function() {
   var popup = new ol.Overlay({
     element: popupElem,
     positioning: 'top-center',
-    stopEvent: false
+    stopEvent: true,
+    insertFirst: true
   });
 
   var map = new ol.Map({
