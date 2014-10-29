@@ -45,7 +45,7 @@ $(function() {
       events.getSource().addFeature(
         new ol.Feature({
           geometry: toPoint(this),
-          name: this.city
+          name: this.name
         })
       );
     })
@@ -91,12 +91,24 @@ $(function() {
     if (feature) {
       var geometry = feature.getGeometry();
       var coord = geometry.getCoordinates();
+      var content = ""
+      var eventUrls = feature.get('urls')
+      if (eventUrls.length == 1) {
+        content += "<p><a href=\"" + eventUrls[0] + "\" target=\"_blank\">View&nbsp;Event</a></p>"
+      } else {
+        content += "<p>"
+        for(var i = 0; i < eventUrls.length; i++) {
+          content += "<a href=\"" + eventUrls[i] + "\" target=\"_blank\">View&nbsp;Event&nbsp;#" + (i + 1) + "</a></br>"
+        }
+        content += "</p>"
+      }
       popup.setPosition(coord);
       $(popupElem).popover({
         'animation': false,
         'placement': 'top',
         'html': true,
-        'content': feature.get('name')
+        'title': feature.get('name'),
+        'content': content
       });
       // workaround for already displayed popovers
       $( "div.popover-content" ).text(feature.get('name'))
