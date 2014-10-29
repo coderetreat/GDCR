@@ -14,7 +14,6 @@ describe "Landing Page" do
 
   it "describes CoderDojo" do
     visit "/"
-    pending
     expect(page).to have_content("CoderDojo")
   end
 
@@ -26,7 +25,7 @@ describe "Landing Page" do
 
         visit '/'
 
-        expect(page).to have_content("2 registered events")
+        expect(page).to have_content("2 participating cities")
     end
   end
 end
