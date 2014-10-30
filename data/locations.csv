@@ -91,6 +91,7 @@ South Africa	Johannesburg	-26.2041028	28.0473051	Africa/Johannesburg	2.0	http://
 Spain	Ciudad Real	38.9848295	-3.927377799999999	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-coderetreat-2014-ciudad-real-spain
 Spain	Las Palmas de Gran Canaria	28.1235459	-15.4362574	Atlantic/Canary	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-las-palmas-de-gran-canaria-spain
 Spain	Madrid	40.4167754	-3.7037902	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-madrid-spain
+Spain	Ourense	42.33578929999999	-7.863880999999998	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-ourense-spain
 Spain	Zaragoza	41.6488226	-0.8890853	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-zaragoza-spain
 Sweden	Stockholm	59.32932349999999	18.0685808	Europe/Stockholm	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-stockholm-sweden
 Switzerland	Zurich	47.3686498	8.539182499999999	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-zurich-switzerland
@@ -114,12 +115,13 @@ USA	Columbus, OH	39.9611755	-82.99879419999999	America/New_York	-5.0	http://code
 USA	Dallas/Fort Worth, TX	32.7554883	-97.3307658	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-dallas-fort-worth-texas
 USA	Denver, CO	39.737567	-104.9847179	America/Denver	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-denver-co-usa
 USA	Des Moines, IA	41.6005448	-93.6091064	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-des-moines-ia
+USA	Detroit, MI	42.331427	-83.0457538	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-detroit-mi-1devday-conference
 USA	Fairfax, VA	38.84622359999999	-77.30637329999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-fairfax-va
 USA	Farmington, Utah	40.9804999	-111.8874392	America/Denver	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-farmington-utah-us
 USA	Hollywood, CA	34.0928092	-118.3286614	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-4
 USA	Honolulu, HI	21.3069444	-157.8583333	Pacific/Honolulu	-10.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-honolulu-us
 USA	Lehi, Utah	40.3916172	-111.8507662	America/Denver	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-lehi-utah-us
-USA	New York City, NY	40.753428	-73.9987089	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-2014-new-york-city
+USA	New York City, NY	40.7127837	-74.0059413	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-2014-new-york-city
 USA	Oakland, CA	37.8043637	-122.2711137	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-code-retreat-oakland-ca-usa
 USA	Omaha, NE	41.2523634	-95.99798829999999	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-omaha-ne-usa
 USA	Orlando, Fl	28.5383355	-81.3792365	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-orlando-fl
@@ -131,7 +133,6 @@ USA	Raleigh/Durham, NC	35.8991678	-78.86364019999999	America/New_York	-5.0	http:
 USA	Rockaway, NJ	40.9300943	-74.4872422	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-rockaway-new-jersey-usa
 USA	Seattle, WA	47.6062095	-122.3320708	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-seattle-usa-1
 USA	Tampa/St. Petersburg, FL	27.8498701	-82.4827675	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-2014-tampa-st-petersburg-fl
-USA (1DevDay Conference)	Detroit, MI	42.331427	-83.0457538	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-detroit-mi-1devday-conference
 Uganda	Mbale	1.080556	34.175	Africa/Kampala	3.0	http://coderetreat.org/events/global-day-of-coderetreat-mbale-uganda
 Ukraine	Kyiv	50.4501	30.5234	Europe/Kiev	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-kyiv-ukraine
 Ukraine	Lviv	49.839683	24.029717	Europe/Kiev	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-lviv-ukraine

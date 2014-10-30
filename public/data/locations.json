@@ -1241,6 +1241,20 @@
         "offset": 1.0,
         "country": "Spain",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-ourense-spain"
+        ],
+        "name": "Ourense, Spain",
+        "coords": [
+            42.33578929999999,
+            -7.863880999999998
+        ],
+        "city": "Ourense"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-zaragoza-spain"
         ],
         "name": "Zaragoza, Spain",
@@ -1537,6 +1551,20 @@
         "offset": -5.0,
         "country": "USA",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-detroit-mi-1devday-conference"
+        ],
+        "name": "Detroit, MI, USA",
+        "coords": [
+            42.331427,
+            -83.0457538
+        ],
+        "city": "Detroit, MI"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-fairfax-va"
         ],
         "name": "Fairfax, VA, USA",
@@ -1611,8 +1639,8 @@
         ],
         "name": "New York City, NY, USA",
         "coords": [
-            40.753428,
-            -73.9987089
+            40.7127837,
+            -74.0059413
         ],
         "city": "New York City, NY"
     },
@@ -1769,20 +1797,6 @@
             -82.4827675
         ],
         "city": "Tampa/St. Petersburg, FL"
-    },
-    {
-        "timeZone": "America/New_York",
-        "offset": -5.0,
-        "country": "USA",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-detroit-mi-1devday-conference"
-        ],
-        "name": "Detroit, MI, USA",
-        "coords": [
-            42.331427,
-            -83.0457538
-        ],
-        "city": "Detroit, MI"
     },
     {
         "timeZone": "Africa/Kampala",
