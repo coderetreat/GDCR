@@ -1881,5 +1881,19 @@
             105.85
         ],
         "city": "Hanoi"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-baltimore-washington"
+        ],
+        "name": "Arlington, VA, USA",
+        "coords": [
+            38.8808136,
+            -77.102156
+        ],
+        "city": "Arlington, VA"
     }
 ]
