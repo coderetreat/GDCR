@@ -899,6 +899,20 @@
         "city": "Mazatl\u00E1n"
     },
     {
+        "timeZone": "America/Mexico_City",
+        "offset": -6.0,
+        "country": "Mexico",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-oaxaca-mexico"
+        ],
+        "name": "Oaxaca, Mexico",
+        "coords": [
+            17.0594169,
+            -96.7216219
+        ],
+        "city": "Oaxaca"
+    },
+    {
         "timeZone": "Europe/Amsterdam",
         "offset": 1.0,
         "country": "Netherlands",
@@ -1368,6 +1382,7 @@
         "country": "UK",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-london-uk",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-london-uk-2",
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-london-uk-1"
         ],
         "name": "London, UK",
@@ -1382,7 +1397,6 @@
         "offset": 0.0,
         "country": "UK",
         "urls": [
-            "http://coderetreat.org/events/peterborough-code-retreat",
             "http://coderetreat.org/events/peterborough-global-day-of-code-retreat"
         ],
         "name": "Peterborough, UK",

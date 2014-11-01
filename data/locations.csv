@@ -65,6 +65,7 @@ Lithuania	Vilnius	54.6871555	25.2796514	Europe/Vilnius	2.0	http://coderetreat.or
 Macedonia	Skopje	41.9973462	21.4279956	Europe/Skopje	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-skopje-macedonia
 Mexico	Guadalajara	20.6596988	-103.3496092	America/Mexico_City	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-guadalajara
 Mexico	Mazatlán	23.2494148	-106.4111425	America/Mazatlan	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-mazatl-n-sinaloa-mx
+Mexico	Oaxaca	17.0594169	-96.7216219	America/Mexico_City	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-oaxaca-mexico
 Netherlands	Arnhem	51.9851034	5.898729599999999	Europe/Amsterdam	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-arnhem-netherlands
 Netherlands	Utrecht	52.091667	5.117777999999999	Europe/Amsterdam	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-netherlands
 New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-auckland-new-zealand-functional
@@ -101,8 +102,8 @@ UK	Aberdeen	57.149717	-2.094278	Europe/London	0.0	http://coderetreat.org/events/
 UK	Birmingham	52.48624299999999	-1.890401	Europe/London	0.0	http://coderetreat.org/events/code-retreat
 UK	Cambridge	52.205337	0.121817	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-cambridge-uk
 UK	London	51.5073509	-0.1277583	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-london-uk
+UK	London	51.5073509	-0.1277583	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-london-uk-2
 UK	London	51.5073509	-0.1277583	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-london-uk-1
-UK	Peterborough	52.56949849999999	-0.2405299	Europe/London	0.0	http://coderetreat.org/events/peterborough-code-retreat
 UK	Peterborough	52.56949849999999	-0.2405299	Europe/London	0.0	http://coderetreat.org/events/peterborough-global-day-of-code-retreat
 USA	Ann Arbor, MI	42.2808256	-83.7430378	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-ann-arbor
 USA	Athens, GA	33.95	-83.383333	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-athens-ga-usa
