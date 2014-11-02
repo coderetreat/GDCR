@@ -158,7 +158,6 @@
         "offset": -4.0,
         "country": "Canada",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-code-retreat-summerside-canada",
             "http://coderetreat.org/events/global-day-of-code-retreat-in-summerside-pei-canada-1"
         ],
         "name": "Summerside, PEI, Canada",
@@ -405,20 +404,6 @@
             17.9938523
         ],
         "city": "Vsetin"
-    },
-    {
-        "timeZone": "Europe/Prague",
-        "offset": 1.0,
-        "country": "Czech Republic",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-code-retreat-2014-vset-n"
-        ],
-        "name": "Vset\u00EDn, Czech Republic",
-        "coords": [
-            49.3389251,
-            17.9938523
-        ],
-        "city": "Vset\u00EDn"
     },
     {
         "timeZone": "America/Guayaquil",
@@ -1637,12 +1622,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-lehi-utah-us"
         ],
-        "name": "Lehi, Utah, USA",
+        "name": "Lehi, UT, USA",
         "coords": [
             40.3916172,
             -111.8507662
         ],
-        "city": "Lehi, Utah"
+        "city": "Lehi, UT"
     },
     {
         "timeZone": "America/New_York",
