@@ -1128,6 +1128,20 @@
         "offset": 2.0,
         "country": "Romania",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-cluj-napoca-romania"
+        ],
+        "name": "Cluj-Napoca, Romania",
+        "coords": [
+            46.766667,
+            23.583333
+        ],
+        "city": "Cluj-Napoca"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 2.0,
+        "country": "Romania",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-timisoara-romania"
         ],
         "name": "Timisoara, Romania",
@@ -1136,20 +1150,6 @@
             21.23
         ],
         "city": "Timisoara"
-    },
-    {
-        "timeZone": "Asia/Singapore",
-        "offset": 8.0,
-        "country": "Singapore",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2014-singapore"
-        ],
-        "name": "Singapore, Singapore",
-        "coords": [
-            1.2800945,
-            103.8509491
-        ],
-        "city": "Singapore"
     },
     {
         "timeZone": "Africa/Johannesburg",
@@ -1206,6 +1206,20 @@
             -3.927377799999999
         ],
         "city": "Ciudad Real"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-coru-a-spain"
+        ],
+        "name": "Coru\u00F1a, Spain",
+        "coords": [
+            43.3623436,
+            -8.4115401
+        ],
+        "city": "Coru\u00F1a"
     },
     {
         "timeZone": "Atlantic/Canary",
@@ -1338,20 +1352,6 @@
         "offset": 0.0,
         "country": "UK",
         "urls": [
-            "http://coderetreat.org/events/code-retreat"
-        ],
-        "name": "Birmingham, UK",
-        "coords": [
-            52.48624299999999,
-            -1.890401
-        ],
-        "city": "Birmingham"
-    },
-    {
-        "timeZone": "Europe/London",
-        "offset": 0.0,
-        "country": "UK",
-        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-cambridge-uk"
         ],
         "name": "Cambridge, UK",
@@ -1410,6 +1410,20 @@
         "offset": -5.0,
         "country": "USA",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-baltimore-washington"
+        ],
+        "name": "Arlington, VA, USA",
+        "coords": [
+            38.8799697,
+            -77.1067698
+        ],
+        "city": "Arlington, VA"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-athens-ga-usa"
         ],
         "name": "Athens, GA, USA",
@@ -1432,6 +1446,20 @@
             -84.3879824
         ],
         "city": "Atlanta, GA"
+    },
+    {
+        "timeZone": "America/Chicago",
+        "offset": -6.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-austin-tx-usa"
+        ],
+        "name": "Austin, TX, USA",
+        "coords": [
+            30.267153,
+            -97.7430608
+        ],
+        "city": "Austin, TX"
     },
     {
         "timeZone": "America/New_York",
@@ -1866,19 +1894,5 @@
             105.85
         ],
         "city": "Hanoi"
-    },
-    {
-        "timeZone": "America/New_York",
-        "offset": -5.0,
-        "country": "USA",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2014-baltimore-washington"
-        ],
-        "name": "Arlington, VA, USA",
-        "coords": [
-            38.8808136,
-            -77.102156
-        ],
-        "city": "Arlington, VA"
     }
 ]
