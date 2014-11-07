@@ -55,6 +55,12 @@ class Sponsor
   attr_reader :name, :url
 end
 
+def galaxy_sponsors
+  [
+    Sponsor.new('ThoughtWorks', 'http://www.thoughtworks.com'),
+  ]
+end
+
 def globe_sponsors
   [
     Sponsor.new('Github', 'https://github.com'),

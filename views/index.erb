@@ -117,6 +117,15 @@
 <section class="sponsors">
   <h2>We love our sponsors!</h2>
 
+  <div class="sponsor-level galaxy">
+    <h3>Galaxy Sponsors</h3>
+    <div class="sponsors-container">
+      <% galaxy_sponsors.each do |sponsor| %>
+        <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
+      <% end %>
+    </div>
+  </div>
+
   <div class="sponsor-level globe">
     <h3>Globe Sponsors</h3>
     <div class="sponsors-container">
