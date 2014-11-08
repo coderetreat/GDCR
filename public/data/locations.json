@@ -1236,6 +1236,20 @@
         "city": "Coru\u00F1a"
     },
     {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/coderetreat-girona-2014"
+        ],
+        "name": "Girona, Spain",
+        "coords": [
+            41.9794005,
+            2.8214264
+        ],
+        "city": "Girona"
+    },
+    {
         "timeZone": "Atlantic/Canary",
         "offset": 0.0,
         "country": "Spain",
