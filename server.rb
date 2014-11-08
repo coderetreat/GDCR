@@ -34,9 +34,6 @@ end
 serve_pages(["hosts",
              "hosts/faq",
              "hosts/guide",
-             "hosts/media_pack",
-             "survey",
-             "sponsors",
              "timeline"
 ])
 
