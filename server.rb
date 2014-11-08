@@ -37,6 +37,7 @@ serve_pages(["hosts",
              "hosts/media_pack",
              "survey",
              "sponsors",
+             "timeline"
 ])
 
 def event_count

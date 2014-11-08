@@ -9,6 +9,7 @@
 @import "stylesheets/navigation";
 @import "stylesheets/forms";
 @import "stylesheets/transparent-overlay";
+@import "stylesheets/timeline";
 
 @import "stylesheets/landing/hero";
 @import "stylesheets/landing/map";
@@ -26,3 +27,4 @@
   @include outer-container;
   padding-top: $gutter;
 }
+
