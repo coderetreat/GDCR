@@ -1664,12 +1664,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-farmington-utah-us"
         ],
-        "name": "Farmington, Utah, USA",
+        "name": "Farmington, UT, USA",
         "coords": [
             40.9804999,
             -111.8874392
         ],
-        "city": "Farmington, Utah"
+        "city": "Farmington, UT"
     },
     {
         "timeZone": "America/Los_Angeles",
