@@ -1212,6 +1212,20 @@
         "offset": 1.0,
         "country": "Spain",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-barcelona"
+        ],
+        "name": "Barcelona, Spain",
+        "coords": [
+            41.3850639,
+            2.1734035
+        ],
+        "city": "Barcelona"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
             "http://coderetreat.org/events/global-day-coderetreat-2014-ciudad-real-spain"
         ],
         "name": "Ciudad Real, Spain",
