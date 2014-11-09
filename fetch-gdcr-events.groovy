@@ -147,7 +147,7 @@ class EventsFetcher {
   }
 
   private String stripHeader(String eventName) {
-      eventName.replaceAll("Global Day of Coderetreat 2014 - ", "")
+      eventName.replaceAll("^.*?- ", "")
   }
 
   private LatLng fetchCoords(String city, String country) {
