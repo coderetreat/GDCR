@@ -14,6 +14,7 @@ Canada	Toronto	43.653226	-79.3831843	America/Toronto	-5.0	http://coderetreat.org
 Canada	Winnipeg	49.8997541	-97.1374937	America/Winnipeg	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-1
 Chile	Santiago	-33.4691199	-70.641997	America/Santiago	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-santiago-chile
 China	Beijing	39.90403	116.407526	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-beijing-china
+China	Beijing	39.90403	116.407526	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-beijing-china-1
 China	Chengdu	30.572269	104.066541	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-chengdu-china
 China	Hangzhou	30.274085	120.15507	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-hangzhou-china
 China	Shanghai	31.230416	121.473701	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-shanghai-china
@@ -117,7 +118,6 @@ USA	Carlsbad, CA	33.1580933	-117.3505939	America/Los_Angeles	-8.0	http://coderet
 USA	Chicago, IL	41.8781136	-87.6297982	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-chicago-il-usa
 USA	Cleveland, OH	41.49932	-81.6943605	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-columbus-oh-usa-1
 USA	Columbus, OH	39.9611755	-82.99879419999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-columbus-oh-usa
-USA	Dallas/Fort Worth, TX	32.7554883	-97.3307658	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-dallas-fort-worth-texas
 USA	Denver, CO	39.737567	-104.9847179	America/Denver	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-denver-co-usa
 USA	Des Moines, IA	41.6005448	-93.6091064	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-des-moines-ia
 USA	Detroit, MI	42.331427	-83.0457538	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-detroit-mi-1devday-conference

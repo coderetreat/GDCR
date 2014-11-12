@@ -214,7 +214,8 @@
         "offset": 8.0,
         "country": "China",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2014-beijing-china"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-beijing-china",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-beijing-china-1"
         ],
         "name": "Beijing, China",
         "coords": [
@@ -1586,20 +1587,6 @@
             -82.99879419999999
         ],
         "city": "Columbus, OH"
-    },
-    {
-        "timeZone": "America/Chicago",
-        "offset": -6.0,
-        "country": "USA",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2014-dallas-fort-worth-texas"
-        ],
-        "name": "Dallas/Fort Worth, TX, USA",
-        "coords": [
-            32.7554883,
-            -97.3307658
-        ],
-        "city": "Dallas/Fort Worth, TX"
     },
     {
         "timeZone": "America/Denver",
