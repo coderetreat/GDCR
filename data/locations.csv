@@ -1,11 +1,12 @@
-Argentina	Corrientes	-27.4712257	-58.83958440000001	America/Cordoba	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-corrientes-argentina-1
+Argentina	Resistencia	-27.451656	-58.98625199999999	America/Cordoba	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-corrientes-argentina-1
 Australia	Melbourne	-37.814107	144.96328	Australia/Hobart	11.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-melbourne-australia
 Australia	Newcastle	-32.926689	151.7789205	Australia/Sydney	11.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-newcastle-australia
 Austria	Graz	47.070714	15.439504	Europe/Vienna	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-graz-austria
 Austria	Vienna	48.2081743	16.3738189	Europe/Vienna	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-vienna-austria-1
-Belgium	Ghent	51.0543422	3.7174243	Europe/Brussels	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-ghent-belgium
+Belgium	Leuven	50.883333	4.7	Europe/Brussels	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-ghent-belgium
 Benin	Cotonou	6.366667	2.433333	Africa/Porto-Novo	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-cotonou-benin
 Brazil	Fortaleza	-3.7318616	-38.5266704	America/Fortaleza	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-fortaleza-brazil
+Bulgaria	Plovdiv	42.1354079	24.7452904	Europe/Sofia	2.0	http://coderetreat.org/events/global-day-of-coderetreat-plovdiv-bulgaria
 Canada	Calgary	51.0453246	-114.0581012	America/Edmonton	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-calgary-canada
 Canada	Oshawa, Durham	43.8970929	-78.86579119999999	America/Toronto	-5.0	http://coderetreat.org/events/durham-code-retreat
 Canada	Quebec City	46.8032826	-71.242796	America/Toronto	-5.0	http://coderetreat.org/events/gdcr14-in-quebec-city
@@ -83,6 +84,7 @@ Poland	Łódź	51.7592485	19.4559833	Europe/Warsaw	1.0	http://coderetreat.org/ev
 Romania	Brasov	45.666667	25.616667	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-brasov-romania
 Romania	Bucharest	44.4325	26.103889	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-bucharest-romania
 Romania	Bucharest	44.4325	26.103889	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-bucharest-romania-1
+Romania	Bucharest	44.4325	26.103889	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-luxoft-bucharest-romania
 Romania	Cluj-Napoca	46.766667	23.583333	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-code-retreat-cluj-napoca-romania
 Romania	Sibiu	45.792784	24.152069	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-sibiu-romania
 Romania	Timisoara	45.759722	21.23	Europe/Bucharest	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-timisoara-romania
@@ -114,6 +116,7 @@ USA	Athens, GA	33.95	-83.383333	America/New_York	-5.0	http://coderetreat.org/eve
 USA	Atlanta, GA	33.7489954	-84.3879824	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-atlanta-usa
 USA	Austin, TX	30.267153	-97.7430608	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-austin-tx-usa
 USA	Boston, MA	42.3584308	-71.0597732	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-boston-ma
+USA	Burlington, VT	44.4758825	-73.21207199999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-burlington-vt-usa
 USA	Carlsbad, CA	33.1580933	-117.3505939	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-carlsbad-ca-usa
 USA	Chicago, IL	41.8781136	-87.6297982	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-chicago-il-usa
 USA	Cleveland, OH	41.49932	-81.6943605	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2014-columbus-oh-usa-1

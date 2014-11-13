@@ -6,12 +6,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-corrientes-argentina-1"
         ],
-        "name": "Corrientes, Argentina",
+        "name": "Resistencia, Argentina",
         "coords": [
-            -27.4712257,
-            -58.83958440000001
+            -27.451656,
+            -58.98625199999999
         ],
-        "city": "Corrientes"
+        "city": "Resistencia"
     },
     {
         "timeZone": "Australia/Hobart",
@@ -76,12 +76,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-ghent-belgium"
         ],
-        "name": "Ghent, Belgium",
+        "name": "Leuven, Belgium",
         "coords": [
-            51.0543422,
-            3.7174243
+            50.883333,
+            4.7
         ],
-        "city": "Ghent"
+        "city": "Leuven"
     },
     {
         "timeZone": "Africa/Porto-Novo",
@@ -110,6 +110,20 @@
             -38.5266704
         ],
         "city": "Fortaleza"
+    },
+    {
+        "timeZone": "Europe/Sofia",
+        "offset": 2.0,
+        "country": "Bulgaria",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-plovdiv-bulgaria"
+        ],
+        "name": "Plovdiv, Bulgaria",
+        "coords": [
+            42.1354079,
+            24.7452904
+        ],
+        "city": "Plovdiv"
     },
     {
         "timeZone": "America/Edmonton",
@@ -1115,7 +1129,8 @@
         "country": "Romania",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-bucharest-romania",
-            "http://coderetreat.org/events/global-day-of-coderetreat-2014-bucharest-romania-1"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-bucharest-romania-1",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-luxoft-bucharest-romania"
         ],
         "name": "Bucharest, Romania",
         "coords": [
@@ -1531,6 +1546,20 @@
             -71.0597732
         ],
         "city": "Boston, MA"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-burlington-vt-usa"
+        ],
+        "name": "Burlington, VT, USA",
+        "coords": [
+            44.4758825,
+            -73.21207199999999
+        ],
+        "city": "Burlington, VT"
     },
     {
         "timeZone": "America/Los_Angeles",
