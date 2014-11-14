@@ -144,6 +144,20 @@
         "offset": -5.0,
         "country": "Canada",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-montr-al-qc-canada"
+        ],
+        "name": "Montr\u00E9al, QC, Canada",
+        "coords": [
+            45.5086699,
+            -73.55399249999999
+        ],
+        "city": "Montr\u00E9al, QC"
+    },
+    {
+        "timeZone": "America/Toronto",
+        "offset": -5.0,
+        "country": "Canada",
+        "urls": [
             "http://coderetreat.org/events/durham-code-retreat"
         ],
         "name": "Oshawa, Durham, Canada",
