@@ -18,6 +18,10 @@ get "/print.css" do
   scss :print
 end
 
+get "/logo/vote" do
+  erb :vote
+end
+
 def serve_pages pages
   pages.each { |page| serve_page page }
 end
