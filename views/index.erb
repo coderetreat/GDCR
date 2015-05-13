@@ -1,28 +1,30 @@
 <div id="hero">
   <div class="header">
     <h1>Global Day of Coderetreat</h1>
-    <h2>November 15, 2014</h2>
+    <h2>November 14, 2015</h2>
 
     <p>a day to celebrate passion and software craftsmanship</p>
   </div>
 </div>
 
 <section id="locations">
-    <h2>Where was it?</h2>
+    <h2>Where is it?</h2>
 
     <div id="map">
       <div id="popup"></div>
   </div>
   <div class="map-aside">
     <p>
-    This year, we had <strong><%= event_count %> participating cities</strong>!
+    This year, we estimate we'll have </strong>100-150 participating cities</strong>!
     </p> <p>
-    This event truly was global,
+    This event truly is global,
     organized and run in local communities by volunteers like you.
     </p> <p>
-    <a href="/timeline.html">Check out the timeline</a> to see when each local coderetreat took place.
+    If you can't find an event near you, <a href="#hosting">create one!</a>
+    </p> <p>
+    <a href="/timeline-2014.html">Check out the 2014 timeline</a> to see when each local coderetreat took place.
     </p>
-    <a class="button" href="http://coderetreat.org/events/event/listByType?type=gdcr14">Find an event that happened near you!</a>
+    <a class="button" href="http://coderetreat.org/events/event/listByType?type=gdcr15">Find an event near you!</a>
   </div>
 </section>
 
@@ -76,65 +78,18 @@
   <a class="button" href="/hosts">Learn about hosting and facilitating</a>
 </section>
 
-<div class="coderdojo-background">
-  <section class="coderdojo">
-    <h2>Paying it Forward</h2>
-
-    <div class="content">
-      <div class="video">
-        <iframe src="//www.youtube.com/embed/z_gcHGa8J1E"
-                frameborder="0" allowfullscreen>
-        </iframe>
-      </div>
-
-      <div class="description">
-        <a class="coderdojo-link" href="https://coderdojo.com/">
-          <img src="https://coderdojo.com/wp-content/themes/coderdojo/images/logo.png"/>
-        </a>
-        <p>
-        This year's Global Day of Coderetreat supported
-        <a href="http://coderdojo.com">CoderDojo</a>: a worldwide,
-        volunteer-driven movement of programming clubs for young people.
-        The funds not used to support GDCR went to CoderDojo.
-        </p> <p>
-        Be Cool and join us!
-        <a href="http://coderetreat.org/profiles/blogs/coderdojo-and-gdcr14">
-          Read this blog post
-        </a>
-        to learn more about how you can support CoderDojo.
-        </p>
-      </div>
-    </div>
-  </section>
-</div>
-
 <section class="sponsors">
-  <h2>We love our sponsors!</h2>
+    <div class="new-sponsor">
+        <h3>You could be a sponsor</h3>
 
-  <div class="sponsor-level galaxy">
-    <h3>Galaxy Sponsors</h3>
-    <div class="sponsors-container">
-      <% galaxy_sponsors.each do |sponsor| %>
-        <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
-      <% end %>
+        <p>
+            By becoming a global sponsor, you will have a presence in front of
+            thousands of the world's most passionate software developers.
+            For more information about our needs and sponsorship plans,
+            please
+            <a href="mailto:gdcr@coderetreat.org?subject=GDCR%20Sponsorship">
+                contact the global event organizers.
+            </a>
+        </p>
     </div>
-  </div>
-
-  <div class="sponsor-level globe">
-    <h3>Globe Sponsors</h3>
-    <div class="sponsors-container">
-      <% globe_sponsors.each do |sponsor| %>
-        <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
-      <% end %>
-    </div>
-  </div>
-
-  <div class="sponsor-level continent">
-    <h3>Continent Sponsors</h3>
-    <div class="sponsors-container">
-      <% continent_sponsors.each do |sponsor| %>
-        <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
-      <% end %>
-    </div>
-  </div>
 </section>
