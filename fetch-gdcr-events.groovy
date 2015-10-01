@@ -12,8 +12,8 @@ if (this.args.length < 1) {
 }
 
 def apiKey = this.args[0]
-def gdcrDate = "2014-11-15"
-def gdcrEventTag = "gdcr14" // the tag used to search the coderetreat.org site for events
+def gdcrDate = "2015-11-14"
+def gdcrEventTag = "gdcr15" // the tag used to search the coderetreat.org site for events
 def outputCsvFile = "data/locations.csv"
 def outputJsonFile = "public/data/locations.json"
 
