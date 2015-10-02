@@ -364,6 +364,34 @@
         "city": "Barcelona"
     },
     {
+        "timeZone": "Atlantic/Canary",
+        "offset": 0.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-in-gran-canaria"
+        ],
+        "name": "Gran Canaria, Spain",
+        "coords": [
+            27.9202202,
+            -15.5474373
+        ],
+        "city": "Gran Canaria"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-zaragoza-spain"
+        ],
+        "name": "Zaragoza, Spain",
+        "coords": [
+            41.6488226,
+            -0.8890853
+        ],
+        "city": "Zaragoza"
+    },
+    {
         "timeZone": "Europe/Stockholm",
         "offset": 1.0,
         "country": "Sweden",
