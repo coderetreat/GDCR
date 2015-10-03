@@ -28,6 +28,20 @@
         "city": "Minsk"
     },
     {
+        "timeZone": "America/Edmonton",
+        "offset": -7.0,
+        "country": "Canada",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-calgary-canada"
+        ],
+        "name": "Calgary, Canada",
+        "coords": [
+            51.0486151,
+            -114.0708459
+        ],
+        "city": "Calgary"
+    },
+    {
         "timeZone": "America/Winnipeg",
         "offset": -6.0,
         "country": "Canada",
@@ -264,6 +278,20 @@
             24.1051864
         ],
         "city": "Riga"
+    },
+    {
+        "timeZone": "Europe/Vilnius",
+        "offset": 2.0,
+        "country": "Lithuania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-vilnius-lithuania"
+        ],
+        "name": "Vilnius, Lithuania",
+        "coords": [
+            54.6871555,
+            25.2796514
+        ],
+        "city": "Vilnius"
     },
     {
         "timeZone": "Europe/Amsterdam",
