@@ -172,7 +172,7 @@
         "offset": 1.0,
         "country": "Germany",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-fulda-germany"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-fulda-germany-1"
         ],
         "name": "Fulda, Germany",
         "coords": [
@@ -278,6 +278,20 @@
             24.1051864
         ],
         "city": "Riga"
+    },
+    {
+        "timeZone": "Europe/Vilnius",
+        "offset": 2.0,
+        "country": "Lithuania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-4"
+        ],
+        "name": "Kaunas, Lithuania",
+        "coords": [
+            54.8985207,
+            23.9035965
+        ],
+        "city": "Kaunas"
     },
     {
         "timeZone": "Europe/Vilnius",
@@ -594,12 +608,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-columbia-maryland-usa"
         ],
-        "name": "Columbia, MA, USA",
+        "name": "Columbia, MD, USA",
         "coords": [
-            42.527133,
-            -71.757887
+            39.2037144,
+            -76.86104619999999
         ],
-        "city": "Columbia, MA"
+        "city": "Columbia, MD"
     },
     {
         "timeZone": "America/New_York",
