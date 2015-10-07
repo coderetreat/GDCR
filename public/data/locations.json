@@ -70,6 +70,34 @@
         "city": "Winnipeg"
     },
     {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-beijing-china"
+        ],
+        "name": "Beijing, China",
+        "coords": [
+            39.904211,
+            116.407395
+        ],
+        "city": "Beijing"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-shanghai-china"
+        ],
+        "name": "Shanghai, China",
+        "coords": [
+            31.230416,
+            121.473701
+        ],
+        "city": "Shanghai"
+    },
+    {
         "timeZone": "America/Costa_Rica",
         "offset": -6.0,
         "country": "Costa Rica",
@@ -96,6 +124,34 @@
             15.5870415
         ],
         "city": "Jihlava"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 1.0,
+        "country": "Czech Republic",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-olomouc-czech-republic"
+        ],
+        "name": "Olomouc, Czech Republic",
+        "coords": [
+            49.593778,
+            17.2508787
+        ],
+        "city": "Olomouc"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 1.0,
+        "country": "Czech Republic",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-prague-czech-republic"
+        ],
+        "name": "Prague, Czech Republic",
+        "coords": [
+            50.0755381,
+            14.4378005
+        ],
+        "city": "Prague"
     },
     {
         "timeZone": "Europe/Paris",
@@ -434,6 +490,20 @@
         "city": "Cape Town"
     },
     {
+        "timeZone": "Africa/Johannesburg",
+        "offset": 2.0,
+        "country": "South Africa",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-johannesburg-south-africa"
+        ],
+        "name": "Johannesburg, South Africa",
+        "coords": [
+            -26.2041028,
+            28.0473051
+        ],
+        "city": "Johannesburg"
+    },
+    {
         "timeZone": "Europe/Madrid",
         "offset": 1.0,
         "country": "Spain",
@@ -630,6 +700,20 @@
         "city": "Austin, TX"
     },
     {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2015-boston-ma"
+        ],
+        "name": "Boston, MA, USA",
+        "coords": [
+            42.3600825,
+            -71.0588801
+        ],
+        "city": "Boston, MA"
+    },
+    {
         "timeZone": "America/Chicago",
         "offset": -6.0,
         "country": "USA",
@@ -740,5 +824,19 @@
             -122.121512
         ],
         "city": "Redmond, WA"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -8.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-san-jose-ca"
+        ],
+        "name": "San Jose, CA, USA",
+        "coords": [
+            37.3382082,
+            -121.8863286
+        ],
+        "city": "San Jose, CA"
     }
 ]
