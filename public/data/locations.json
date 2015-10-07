@@ -1,5 +1,19 @@
 [
     {
+        "timeZone": "Australia/Hobart",
+        "offset": 11.0,
+        "country": "Australia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015"
+        ],
+        "name": "Melbourne, Australia",
+        "coords": [
+            -37.814107,
+            144.96328
+        ],
+        "city": "Melbourne"
+    },
+    {
         "timeZone": "Europe/Vienna",
         "offset": 1.0,
         "country": "Austria",
@@ -210,6 +224,20 @@
         "city": "Osnabr\u00FCck"
     },
     {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-solingen-germany"
+        ],
+        "name": "Solingen, Germany",
+        "coords": [
+            51.17020720000001,
+            7.0831408
+        ],
+        "city": "Solingen"
+    },
+    {
         "timeZone": "Europe/Athens",
         "offset": 2.0,
         "country": "Greece",
@@ -376,6 +404,20 @@
             23.6236353
         ],
         "city": "Cluj-Napoca"
+    },
+    {
+        "timeZone": "Asia/Singapore",
+        "offset": 8.0,
+        "country": "Singapore",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-singapore"
+        ],
+        "name": "Singapore, Singapore",
+        "coords": [
+            1.2800945,
+            103.8509491
+        ],
+        "city": "Singapore"
     },
     {
         "timeZone": "Africa/Johannesburg",
