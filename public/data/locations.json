@@ -130,6 +130,20 @@
         "offset": 1.0,
         "country": "Czech Republic",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-brno-czech-republic"
+        ],
+        "name": "Brno, Czech Republic",
+        "coords": [
+            49.1950602,
+            16.6068371
+        ],
+        "city": "Brno"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 1.0,
+        "country": "Czech Republic",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-jihlava-czech-republic"
         ],
         "name": "Jihlava, Czech Republic",
@@ -448,6 +462,20 @@
         "city": "Skopje"
     },
     {
+        "timeZone": "America/Mazatlan",
+        "offset": -7.0,
+        "country": "Mexico",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-mazatlan-mx"
+        ],
+        "name": "Mazatlan, Mexico",
+        "coords": [
+            23.2494148,
+            -106.4111425
+        ],
+        "city": "Mazatlan"
+    },
+    {
         "timeZone": "Europe/Amsterdam",
         "offset": 1.0,
         "country": "Netherlands",
@@ -544,6 +572,20 @@
             103.8509491
         ],
         "city": "Singapore"
+    },
+    {
+        "timeZone": "Europe/Bratislava",
+        "offset": 1.0,
+        "country": "Slovakia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-bratislava-slovakia"
+        ],
+        "name": "Bratislava, Slovakia",
+        "coords": [
+            48.1458923,
+            17.1071373
+        ],
+        "city": "Bratislava"
     },
     {
         "timeZone": "Africa/Johannesburg",
@@ -937,5 +979,19 @@
             -121.8863286
         ],
         "city": "San Jose, CA"
+    },
+    {
+        "timeZone": "Europe/Kiev",
+        "offset": 2.0,
+        "country": "Ukraine",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-kyiv-ukraine"
+        ],
+        "name": "Kyiv, Ukraine",
+        "coords": [
+            50.4501,
+            30.5234
+        ],
+        "city": "Kyiv"
     }
 ]
