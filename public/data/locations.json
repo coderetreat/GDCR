@@ -1,5 +1,19 @@
 [
     {
+        "timeZone": "America/Cordoba",
+        "offset": -3.0,
+        "country": "Argentina",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-corrientes-argentina"
+        ],
+        "name": "Corrientes, Argentina",
+        "coords": [
+            -27.4692131,
+            -58.8306349
+        ],
+        "city": "Corrientes"
+    },
+    {
         "timeZone": "Australia/Hobart",
         "offset": 11.0,
         "country": "Australia",
@@ -82,6 +96,20 @@
             -97.1374937
         ],
         "city": "Winnipeg"
+    },
+    {
+        "timeZone": "America/Santiago",
+        "offset": -3.0,
+        "country": "Chile",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2015-santiago-chile-by-chileagil"
+        ],
+        "name": "Santiago, Chile",
+        "coords": [
+            -33.4488897,
+            -70.6692655
+        ],
+        "city": "Santiago"
     },
     {
         "timeZone": "Asia/Shanghai",
@@ -993,5 +1021,19 @@
             30.5234
         ],
         "city": "Kyiv"
+    },
+    {
+        "timeZone": "Europe/Kiev",
+        "offset": 2.0,
+        "country": "Ukraine",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-lviv-ukraine"
+        ],
+        "name": "Lviv, Ukraine",
+        "coords": [
+            49.839683,
+            24.029717
+        ],
+        "city": "Lviv"
     }
 ]
