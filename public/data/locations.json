@@ -256,7 +256,8 @@
         "offset": 1.0,
         "country": "Germany",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-erlangen-germany"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-erlangen-germany",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-erlangen-germany-1"
         ],
         "name": "Erlangen, Germany",
         "coords": [
@@ -320,6 +321,20 @@
             8.4036527
         ],
         "city": "Karlsruhe"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-munich-germany"
+        ],
+        "name": "Munich, Germany",
+        "coords": [
+            48.1351253,
+            11.5819806
+        ],
+        "city": "Munich"
     },
     {
         "timeZone": "Europe/Berlin",
