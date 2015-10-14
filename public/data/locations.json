@@ -140,6 +140,20 @@
         "city": "Shanghai"
     },
     {
+        "timeZone": "America/Bogota",
+        "offset": -5.0,
+        "country": "Colombia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-1"
+        ],
+        "name": "Bogot\u00E1, Colombia",
+        "coords": [
+            4.710988599999999,
+            -74.072092
+        ],
+        "city": "Bogot\u00E1"
+    },
+    {
         "timeZone": "America/Costa_Rica",
         "offset": -6.0,
         "country": "Costa Rica",
@@ -691,6 +705,20 @@
         "offset": 1.0,
         "country": "Spain",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-logro-o-spain"
+        ],
+        "name": "Logro\u00F1o, Spain",
+        "coords": [
+            42.4627195,
+            -2.4449852
+        ],
+        "city": "Logro\u00F1o"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-ourense-spain"
         ],
         "name": "Ourense, Spain",
@@ -775,6 +803,7 @@
         "offset": 2.0,
         "country": "Turkey",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey-1",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey"
         ],
         "name": "Istanbul, Turkey",
@@ -1008,6 +1037,20 @@
             -122.121512
         ],
         "city": "Redmond, WA"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -8.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-san-diego-ca-hosted-by-pluralsight"
+        ],
+        "name": "San Diego, CA, USA",
+        "coords": [
+            32.715738,
+            -117.1610838
+        ],
+        "city": "San Diego, CA"
     },
     {
         "timeZone": "America/Los_Angeles",

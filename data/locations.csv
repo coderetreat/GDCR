@@ -8,6 +8,7 @@ Canada	Winnipeg	49.8997541	-97.1374937	America/Winnipeg	-6.0	http://coderetreat.
 Chile	Santiago	-33.4488897	-70.6692655	America/Santiago	-3.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-santiago-chile-by-chileagil
 China	Beijing	39.904211	116.407395	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-beijing-china
 China	Shanghai	31.230416	121.473701	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-shanghai-china
+Colombia	Bogotá	4.710988599999999	-74.072092	America/Bogota	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-1
 Costa Rica	Tres Ríos	9.9067787	-83.9876532	America/Costa_Rica	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-costa-rica
 Czech Republic	Brno	49.1950602	16.6068371	Europe/Prague	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-brno-czech-republic
 Czech Republic	Jihlava	49.3983782	15.5870415	Europe/Prague	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-jihlava-czech-republic
@@ -48,12 +49,14 @@ South Africa	Cape Town	-33.9248685	18.4240553	Africa/Johannesburg	2.0	http://cod
 South Africa	Johannesburg	-26.2041028	28.0473051	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-johannesburg-south-africa
 Spain	Barcelona	41.3850639	2.1734035	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-barcelona-spain
 Spain	Gran Canaria	27.9202202	-15.5474373	Atlantic/Canary	0.0	http://coderetreat.org/events/global-day-of-code-retreat-in-gran-canaria
+Spain	Logroño	42.4627195	-2.4449852	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-logro-o-spain
 Spain	Ourense	42.33578929999999	-7.863880999999998	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-ourense-spain
 Spain	Zaragoza	41.6488226	-0.8890853	Europe/Madrid	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-zaragoza-spain
 Sweden	Gothenburg	57.70887	11.97456	Europe/Stockholm	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-gothenburg-sweden
 Switzerland	Bern	46.9479739	7.4474468	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-bern-switzerland
 Switzerland	St. Gallen	47.4244818	9.3767173	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-st-gallen-switzerland
 Switzerland	Zurich	47.3768866	8.541694	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-zurich-switzerland
+Turkey	Istanbul	41.0082376	28.9783589	Europe/Istanbul	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey-1
 Turkey	Istanbul	41.0082376	28.9783589	Europe/Istanbul	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey
 UK	Glasgow	55.864237	-4.251806	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-glasgow
 UK	Peterborough	52.56949849999999	-0.2405299	Europe/London	0.0	http://coderetreat.org/events/gdcr-peterborough-2015
@@ -72,6 +75,7 @@ USA	Des Moines, IA	41.6005448	-93.6091064	America/Chicago	-6.0	http://coderetrea
 USA	Honolulu, HI	21.3069444	-157.8583333	Pacific/Honolulu	-10.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-honolulu-usa
 USA	Parsippany, NJ	40.8652865	-74.41738769999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-parsippany-nj-usa
 USA	Redmond, WA	47.6739881	-122.121512	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-3
+USA	San Diego, CA	32.715738	-117.1610838	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-code-retreat-san-diego-ca-hosted-by-pluralsight
 USA	San Jose, CA	37.3382082	-121.8863286	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-san-jose-ca
 Ukraine	Kyiv	50.4501	30.5234	Europe/Kiev	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-kyiv-ukraine
 Ukraine	Lviv	49.839683	24.029717	Europe/Kiev	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-lviv-ukraine
