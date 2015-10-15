@@ -29,6 +29,7 @@ Germany	Solingen	51.17020720000001	7.0831408	Europe/Berlin	1.0	http://coderetrea
 Greece	Thessaloniki	40.6400629	22.9444191	Europe/Athens	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-thessaloniki-greece
 India	Bangalore	12.9715987	77.5945627	Asia/Calcutta	5.5	http://coderetreat.org/events/global-day-of-coderetreat-2015-bangalore-india
 India	Hyderabad	17.385044	78.486671	Asia/Calcutta	5.5	http://coderetreat.org/events/global-day-of-coderetreat-2015-hyderabad-india
+India	Mumbai	19.0759837	72.8776559	Asia/Calcutta	5.5	http://coderetreat.org/events/global-day-of-coderetreat-2015-mumbai-india
 India	Pune	18.5204303	73.8567437	Asia/Calcutta	5.5	http://coderetreat.org/events/global-day-of-coderetreat-2015-pune
 Israel	Tel Aviv	32.0852999	34.78176759999999	Asia/Jerusalem	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-tel-aviv-israel
 Japan	Osaka	34.6937378	135.5021651	Asia/Tokyo	9.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-osaka-japan
@@ -56,10 +57,10 @@ Sweden	Gothenburg	57.70887	11.97456	Europe/Stockholm	1.0	http://coderetreat.org/
 Switzerland	Bern	46.9479739	7.4474468	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-bern-switzerland
 Switzerland	St. Gallen	47.4244818	9.3767173	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-st-gallen-switzerland
 Switzerland	Zurich	47.3768866	8.541694	Europe/Zurich	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-zurich-switzerland
-Turkey	Istanbul	41.0082376	28.9783589	Europe/Istanbul	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey-1
 Turkey	Istanbul	41.0082376	28.9783589	Europe/Istanbul	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey
 UK	Glasgow	55.864237	-4.251806	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-glasgow
 UK	Peterborough	52.56949849999999	-0.2405299	Europe/London	0.0	http://coderetreat.org/events/gdcr-peterborough-2015
+US	Portland OR	45.5230622	-122.6764816	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-portland-or-us
 USA	Ann Arbor, MI	42.2808256	-83.7430378	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-ann-arbor-mi-usa
 USA	Ashburn, VA	39.0437567	-77.4874416	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-3
 USA	Atlanta, GA	33.7489954	-84.3879824	America/New_York	-5.0	http://coderetreat.org/events/gdcr-atlanta-ga-us
@@ -73,6 +74,7 @@ USA	Columbus, OH	39.9611755	-82.99879419999999	America/New_York	-5.0	http://code
 USA	Denver, CO	39.7392358	-104.990251	America/Denver	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-denver-co-usa
 USA	Des Moines, IA	41.6005448	-93.6091064	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-des-moines-ia-usa
 USA	Honolulu, HI	21.3069444	-157.8583333	Pacific/Honolulu	-10.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-honolulu-usa
+USA	Los Angeles, CA	34.0522342	-118.2436849	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-los-angeles-ca-usa
 USA	Parsippany, NJ	40.8652865	-74.41738769999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-parsippany-nj-usa
 USA	Redmond, WA	47.6739881	-122.121512	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-3
 USA	San Diego, CA	32.715738	-117.1610838	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-code-retreat-san-diego-ca-hosted-by-pluralsight

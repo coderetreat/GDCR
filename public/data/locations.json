@@ -425,6 +425,20 @@
         "offset": 5.5,
         "country": "India",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-mumbai-india"
+        ],
+        "name": "Mumbai, India",
+        "coords": [
+            19.0759837,
+            72.8776559
+        ],
+        "city": "Mumbai"
+    },
+    {
+        "timeZone": "Asia/Calcutta",
+        "offset": 5.5,
+        "country": "India",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-pune"
         ],
         "name": "Pune, India",
@@ -803,7 +817,6 @@
         "offset": 2.0,
         "country": "Turkey",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey-1",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey"
         ],
         "name": "Istanbul, Turkey",
@@ -840,6 +853,20 @@
             -0.2405299
         ],
         "city": "Peterborough"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -8.0,
+        "country": "US",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-portland-or-us"
+        ],
+        "name": "Portland OR, US",
+        "coords": [
+            45.5230622,
+            -122.6764816
+        ],
+        "city": "Portland OR"
     },
     {
         "timeZone": "America/New_York",
@@ -1009,6 +1036,20 @@
             -157.8583333
         ],
         "city": "Honolulu, HI"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -8.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-los-angeles-ca-usa"
+        ],
+        "name": "Los Angeles, CA, USA",
+        "coords": [
+            34.0522342,
+            -118.2436849
+        ],
+        "city": "Los Angeles, CA"
     },
     {
         "timeZone": "America/New_York",
