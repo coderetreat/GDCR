@@ -71,6 +71,6 @@ end
 
 def continent_sponsors
   [
-    Sponsor.new('DNSimple', 'https://www.dnsimple.com/'),
+    Sponsor.new('8th Light', 'https://8thlight.com/'),
   ]
 end

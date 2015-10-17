@@ -111,6 +111,17 @@
 </div>
 
 <section class="sponsors">
+    <h2>We love our sponsors!</h2>
+
+    <div class="sponsor-level continent">
+      <h3>Continent Sponsors</h3>
+      <div class="sponsors-container">
+        <% continent_sponsors.each do |sponsor| %>
+          <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
+        <% end %>
+      </div>
+    </div>
+
     <div class="new-sponsor">
         <h3>You could be a sponsor</h3>
 
@@ -119,6 +130,10 @@
             thousands of the world's most passionate software developers.
             For more information about our needs and sponsorship plans,
             please
+            <a href="http://globalday.coderetreat.org/gdcr_2015_global_sponsor_prospectus.pdf">
+              download our sponsorship prospectus
+            </a>
+            and
             <a href="mailto:gdcr@coderetreat.org?subject=GDCR%20Sponsorship">
                 contact the global event organizers.
             </a>
