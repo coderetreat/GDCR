@@ -228,6 +228,20 @@
         "offset": 1.0,
         "country": "France",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-lille-france-2015"
+        ],
+        "name": "Lille, France",
+        "coords": [
+            50.62925,
+            3.057256
+        ],
+        "city": "Lille"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 1.0,
+        "country": "France",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-paris-france"
         ],
         "name": "Paris, France",
@@ -355,6 +369,20 @@
         "offset": 1.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-n-rnberg-germany"
+        ],
+        "name": "N\u00FCrnberg, Germany",
+        "coords": [
+            49.45203,
+            11.07675
+        ],
+        "city": "N\u00FCrnberg"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-in-osnabr-ck"
         ],
         "name": "Osnabr\u00FCck, Germany",
@@ -463,6 +491,20 @@
         "city": "Tel Aviv"
     },
     {
+        "timeZone": "Europe/Rome",
+        "offset": 1.0,
+        "country": "Italy",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-milan-italy"
+        ],
+        "name": "Milan, Italy",
+        "coords": [
+            45.4654219,
+            9.1859243
+        ],
+        "city": "Milan"
+    },
+    {
         "timeZone": "Asia/Tokyo",
         "offset": 9.0,
         "country": "Japan",
@@ -475,6 +517,20 @@
             135.5021651
         ],
         "city": "Osaka"
+    },
+    {
+        "timeZone": "Asia/Qyzylorda",
+        "offset": 6.0,
+        "country": "Kazakhstan",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-karaganda-kazakhstan"
+        ],
+        "name": "Karaganda, Kazakhstan",
+        "coords": [
+            49.8046835,
+            73.1093826
+        ],
+        "city": "Karaganda"
     },
     {
         "timeZone": "Europe/Riga",
@@ -817,7 +873,8 @@
         "offset": 2.0,
         "country": "Turkey",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-istanbul-turkey-1"
         ],
         "name": "Istanbul, Turkey",
         "coords": [
@@ -839,6 +896,21 @@
             -4.251806
         ],
         "city": "Glasgow"
+    },
+    {
+        "timeZone": "Europe/London",
+        "offset": 0.0,
+        "country": "UK",
+        "urls": [
+            "http://coderetreat.org/events/lscc-code-retreats",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-london-uk"
+        ],
+        "name": "London, UK",
+        "coords": [
+            51.5073509,
+            -0.1277583
+        ],
+        "city": "London"
     },
     {
         "timeZone": "Europe/London",
@@ -887,6 +959,20 @@
         "offset": -5.0,
         "country": "USA",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-arlington-va-usa"
+        ],
+        "name": "Arlington, VA, USA",
+        "coords": [
+            38.8799697,
+            -77.1067698
+        ],
+        "city": "Arlington, VA"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-code-retreat-3"
         ],
         "name": "Ashburn, VA, USA",
@@ -929,8 +1015,7 @@
         "offset": -5.0,
         "country": "USA",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-code-retreat-2015-boston-ma",
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-boston-usa"
+            "http://coderetreat.org/events/global-day-of-code-retreat-2015-boston-ma"
         ],
         "name": "Boston, MA, USA",
         "coords": [
@@ -1052,6 +1137,20 @@
         "city": "Los Angeles, CA"
     },
     {
+        "timeZone": "America/Chicago",
+        "offset": -6.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2015-omaha-ne"
+        ],
+        "name": "Omaha, NE, USA",
+        "coords": [
+            41.2523634,
+            -95.99798829999999
+        ],
+        "city": "Omaha, NE"
+    },
+    {
         "timeZone": "America/New_York",
         "offset": -5.0,
         "country": "USA",
@@ -1106,6 +1205,20 @@
             -121.8863286
         ],
         "city": "San Jose, CA"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-tampa-st-petersburg-fl-usa"
+        ],
+        "name": "Tampa/St. Petersburg, FL, USA",
+        "coords": [
+            27.8498701,
+            -82.4827675
+        ],
+        "city": "Tampa/St. Petersburg, FL"
     },
     {
         "timeZone": "Europe/Kiev",
