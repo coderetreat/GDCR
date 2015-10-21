@@ -130,6 +130,20 @@
         "offset": 8.0,
         "country": "China",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-chengdu-china"
+        ],
+        "name": "Chengdu, China",
+        "coords": [
+            30.572269,
+            104.066541
+        ],
+        "city": "Chengdu"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-shanghai-china"
         ],
         "name": "Shanghai, China",
@@ -278,6 +292,20 @@
             8.532470800000002
         ],
         "city": "Bielefeld"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-braunschweig-germany"
+        ],
+        "name": "Braunschweig, Germany",
+        "coords": [
+            52.2688736,
+            10.5267696
+        ],
+        "city": "Braunschweig"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -635,6 +663,21 @@
         "offset": 1.0,
         "country": "Poland",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-krak-w-poland"
+        ],
+        "name": "Krak\u00F3w, Poland",
+        "coords": [
+            50.06465009999999,
+            19.9449799
+        ],
+        "city": "Krak\u00F3w"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-for-mobile-developers-polidea-warsaw",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-warsaw-poland"
         ],
         "name": "Warsaw, Poland",
@@ -685,6 +728,20 @@
             23.6236353
         ],
         "city": "Cluj-Napoca"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 2.0,
+        "country": "Romania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-timisoara-romania-1"
+        ],
+        "name": "Timisoara, Romania",
+        "coords": [
+            45.7488716,
+            21.2086793
+        ],
+        "city": "Timisoara"
     },
     {
         "timeZone": "Asia/Singapore",
