@@ -734,6 +734,20 @@
         "offset": 2.0,
         "country": "Romania",
         "urls": [
+            "http://coderetreat.org/events/sibiu-global-day-of-code-retreat"
+        ],
+        "name": "Sibiu, Romania",
+        "coords": [
+            45.7983273,
+            24.1255826
+        ],
+        "city": "Sibiu"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 2.0,
+        "country": "Romania",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2014-timisoara-romania-1"
         ],
         "name": "Timisoara, Romania",
@@ -742,6 +756,20 @@
             21.2086793
         ],
         "city": "Timisoara"
+    },
+    {
+        "timeZone": "Europe/Belgrade",
+        "offset": 1.0,
+        "country": "Serbia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-belgrade-serbia"
+        ],
+        "name": "Belgrade, Serbia",
+        "coords": [
+            44.786568,
+            20.4489216
+        ],
+        "city": "Belgrade"
     },
     {
         "timeZone": "Asia/Singapore",
