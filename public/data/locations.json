@@ -56,6 +56,20 @@
         "city": "Minsk"
     },
     {
+        "timeZone": "Europe/Minsk",
+        "offset": 3.0,
+        "country": "Belarus",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-mogilev-by"
+        ],
+        "name": "Mogilev, Belarus",
+        "coords": [
+            53.90071589999999,
+            30.3313598
+        ],
+        "city": "Mogilev"
+    },
+    {
         "timeZone": "America/Fortaleza",
         "offset": -3.0,
         "country": "Brazil",
@@ -250,6 +264,20 @@
             3.057256
         ],
         "city": "Lille"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 1.0,
+        "country": "France",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-lyon-france"
+        ],
+        "name": "Lyon, France",
+        "coords": [
+            45.764043,
+            4.835659
+        ],
+        "city": "Lyon"
     },
     {
         "timeZone": "Europe/Paris",
@@ -882,6 +910,20 @@
             -7.863880999999998
         ],
         "city": "Ourense"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-valencia-spain"
+        ],
+        "name": "Valencia, Spain",
+        "coords": [
+            39.4699075,
+            -0.3762881
+        ],
+        "city": "Valencia"
     },
     {
         "timeZone": "Europe/Madrid",
