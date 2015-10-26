@@ -3,8 +3,10 @@ Australia	Melbourne	-37.814107	144.96328	Australia/Hobart	11.0	http://coderetrea
 Austria	Vienna	48.2081743	16.3738189	Europe/Vienna	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-vienna-austria
 Belarus	Minsk	53.90453979999999	27.5615244	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-minsk-belarus
 Belarus	Mogilev	53.90071589999999	30.3313598	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-mogilev-by
+Belarus	Vitebsk	55.1848061	30.201622	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-vitebsk-belarus
 Brazil	Fortaleza	-3.7318616	-38.5266704	America/Fortaleza	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-fortaleza-brazil
 Canada	Calgary	51.0486151	-114.0708459	America/Edmonton	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-calgary-canada
+Canada	Toronto	43.653226	-79.3831843	America/Toronto	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-toronto-canada
 Canada	Winnipeg	49.8997541	-97.1374937	America/Winnipeg	-6.0	http://coderetreat.org/events/global-day-coderetreat-2015
 Chile	Santiago	-33.4488897	-70.6692655	America/Santiago	-3.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-santiago-chile-by-chileagil
 China	Beijing	39.904211	116.407395	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-beijing-china
@@ -77,7 +79,6 @@ UK	Glasgow	55.864237	-4.251806	Europe/London	0.0	http://coderetreat.org/events/g
 UK	London	51.5073509	-0.1277583	Europe/London	0.0	http://coderetreat.org/events/lscc-code-retreats
 UK	London	51.5073509	-0.1277583	Europe/London	0.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-london-uk
 UK	Peterborough	52.56949849999999	-0.2405299	Europe/London	0.0	http://coderetreat.org/events/gdcr-peterborough-2015
-US	Portland OR	45.5230622	-122.6764816	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-portland-or-us
 USA	Ann Arbor, MI	42.2808256	-83.7430378	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-ann-arbor-mi-usa
 USA	Arlington, VA	38.8799697	-77.1067698	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-arlington-va-usa
 USA	Ashburn, VA	39.0437567	-77.4874416	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-3
@@ -92,8 +93,11 @@ USA	Denver, CO	39.7392358	-104.990251	America/Denver	-7.0	http://coderetreat.org
 USA	Des Moines, IA	41.6005448	-93.6091064	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-des-moines-ia-usa
 USA	Honolulu, HI	21.3069444	-157.8583333	Pacific/Honolulu	-10.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-honolulu-usa
 USA	Los Angeles, CA	34.0522342	-118.2436849	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-los-angeles-ca-usa
+USA	New York City, NY	40.7127837	-74.0059413	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states
+USA	New York City, NY	40.7127837	-74.0059413	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states-1
 USA	Omaha, NE	41.2523634	-95.99798829999999	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-omaha-ne
 USA	Parsippany, NJ	40.8652865	-74.41738769999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-parsippany-nj-usa
+USA	Portland, OR	45.5230622	-122.6764816	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-portland-or-us
 USA	Redmond, WA	47.6739881	-122.121512	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-3
 USA	San Diego, CA	32.715738	-117.1610838	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-code-retreat-san-diego-ca-hosted-by-pluralsight
 USA	San Jose, CA	37.3382082	-121.8863286	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-san-jose-ca

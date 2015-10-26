@@ -70,6 +70,20 @@
         "city": "Mogilev"
     },
     {
+        "timeZone": "Europe/Minsk",
+        "offset": 3.0,
+        "country": "Belarus",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-vitebsk-belarus"
+        ],
+        "name": "Vitebsk, Belarus",
+        "coords": [
+            55.1848061,
+            30.201622
+        ],
+        "city": "Vitebsk"
+    },
+    {
         "timeZone": "America/Fortaleza",
         "offset": -3.0,
         "country": "Brazil",
@@ -96,6 +110,20 @@
             -114.0708459
         ],
         "city": "Calgary"
+    },
+    {
+        "timeZone": "America/Toronto",
+        "offset": -5.0,
+        "country": "Canada",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-toronto-canada"
+        ],
+        "name": "Toronto, Canada",
+        "coords": [
+            43.653226,
+            -79.3831843
+        ],
+        "city": "Toronto"
     },
     {
         "timeZone": "America/Winnipeg",
@@ -1054,20 +1082,6 @@
         "city": "Peterborough"
     },
     {
-        "timeZone": "America/Los_Angeles",
-        "offset": -8.0,
-        "country": "US",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-portland-or-us"
-        ],
-        "name": "Portland OR, US",
-        "coords": [
-            45.5230622,
-            -122.6764816
-        ],
-        "city": "Portland OR"
-    },
-    {
         "timeZone": "America/New_York",
         "offset": -5.0,
         "country": "USA",
@@ -1264,6 +1278,21 @@
         "city": "Los Angeles, CA"
     },
     {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states-1"
+        ],
+        "name": "New York City, NY, USA",
+        "coords": [
+            40.7127837,
+            -74.0059413
+        ],
+        "city": "New York City, NY"
+    },
+    {
         "timeZone": "America/Chicago",
         "offset": -6.0,
         "country": "USA",
@@ -1290,6 +1319,20 @@
             -74.41738769999999
         ],
         "city": "Parsippany, NJ"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -8.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-portland-or-us"
+        ],
+        "name": "Portland, OR, USA",
+        "coords": [
+            45.5230622,
+            -122.6764816
+        ],
+        "city": "Portland, OR"
     },
     {
         "timeZone": "America/Los_Angeles",
