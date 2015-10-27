@@ -196,6 +196,34 @@
         "city": "Shanghai"
     },
     {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-shenzhen-china"
+        ],
+        "name": "Shenzhen, China",
+        "coords": [
+            22.543099,
+            114.057868
+        ],
+        "city": "Shenzhen"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-xi-an-china"
+        ],
+        "name": "Xi'an, China",
+        "coords": [
+            34.341568,
+            108.940175
+        ],
+        "city": "Xi'an"
+    },
+    {
         "timeZone": "America/Bogota",
         "offset": -5.0,
         "country": "Colombia",
@@ -713,6 +741,20 @@
             174.7633315
         ],
         "city": "Auckland"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-katowice-silesia-poland"
+        ],
+        "name": "Katowice, Silesia, Poland",
+        "coords": [
+            50.26489189999999,
+            19.0237815
+        ],
+        "city": "Katowice, Silesia"
     },
     {
         "timeZone": "Europe/Warsaw",
