@@ -252,6 +252,20 @@
         "city": "Tres R\u00EDos"
     },
     {
+        "timeZone": "Europe/Zagreb",
+        "offset": 1.0,
+        "country": "Croatia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-zagreb"
+        ],
+        "name": "Zagreb, Croatia",
+        "coords": [
+            45.8150108,
+            15.981919
+        ],
+        "city": "Zagreb"
+    },
+    {
         "timeZone": "Europe/Prague",
         "offset": 1.0,
         "country": "Czech Republic",
@@ -715,6 +729,20 @@
         "city": "Mazatlan"
     },
     {
+        "timeZone": "America/Mexico_City",
+        "offset": -6.0,
+        "country": "Mexico",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-2"
+        ],
+        "name": "Oaxaca, Mexico",
+        "coords": [
+            17.0594169,
+            -96.7216219
+        ],
+        "city": "Oaxaca"
+    },
+    {
         "timeZone": "Europe/Amsterdam",
         "offset": 1.0,
         "country": "Netherlands",
@@ -733,6 +761,7 @@
         "offset": 13.0,
         "country": "New Zealand",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-auckland-new-zealand",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-auckland-new-zealand"
         ],
         "name": "Auckland, New Zealand",
@@ -800,6 +829,20 @@
         "city": "Wroclaw"
     },
     {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2015"
+        ],
+        "name": "\u0141\u00F3d\u017A, Poland",
+        "coords": [
+            51.7592485,
+            19.4559833
+        ],
+        "city": "\u0141\u00F3d\u017A"
+    },
+    {
         "timeZone": "Europe/Bucharest",
         "offset": 2.0,
         "country": "Romania",
@@ -812,6 +855,20 @@
             25.6011977
         ],
         "city": "Brasov"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 2.0,
+        "country": "Romania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-bucharest-romania"
+        ],
+        "name": "Bucharest, Romania",
+        "coords": [
+            44.4267674,
+            26.1025384
+        ],
+        "city": "Bucharest"
     },
     {
         "timeZone": "Europe/Bucharest",
@@ -1100,6 +1157,7 @@
         "country": "UK",
         "urls": [
             "http://coderetreat.org/events/lscc-code-retreats",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-london-uk-1",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-london-uk"
         ],
         "name": "London, UK",
@@ -1192,6 +1250,20 @@
             -97.7430608
         ],
         "city": "Austin, TX"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -8.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-bend-oregon"
+        ],
+        "name": "Bend, Oregon, USA",
+        "coords": [
+            44.0581728,
+            -121.3153096
+        ],
+        "city": "Bend, Oregon"
     },
     {
         "timeZone": "America/New_York",
