@@ -533,6 +533,20 @@
         "city": "Solingen"
     },
     {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-weinsberg"
+        ],
+        "name": "Weinsberg, Germany",
+        "coords": [
+            49.1484633,
+            9.287265699999999
+        ],
+        "city": "Weinsberg"
+    },
+    {
         "timeZone": "Europe/Athens",
         "offset": 2.0,
         "country": "Greece",
