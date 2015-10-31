@@ -214,6 +214,20 @@
         "offset": 8.0,
         "country": "China",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-taiyuan-china"
+        ],
+        "name": "Taiyuan, China",
+        "coords": [
+            37.87059,
+            112.548879
+        ],
+        "city": "Taiyuan"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-xi-an-china"
         ],
         "name": "Xi'an, China",
@@ -561,6 +575,20 @@
         "city": "Thessaloniki"
     },
     {
+        "timeZone": "Europe/Budapest",
+        "offset": 1.0,
+        "country": "Hungary",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-debrecen-hungary"
+        ],
+        "name": "Debrecen, Hungary",
+        "coords": [
+            47.5316049,
+            21.6273123
+        ],
+        "city": "Debrecen"
+    },
+    {
         "timeZone": "Asia/Calcutta",
         "offset": 5.5,
         "country": "India",
@@ -757,6 +785,20 @@
         "city": "Oaxaca"
     },
     {
+        "timeZone": "America/Mexico_City",
+        "offset": -6.0,
+        "country": "M\u00E9xico",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-aguascalientes-m-xico"
+        ],
+        "name": "Aguascalientes, M\u00E9xico",
+        "coords": [
+            21.8852562,
+            -102.2915677
+        ],
+        "city": "Aguascalientes"
+    },
+    {
         "timeZone": "Europe/Amsterdam",
         "offset": 1.0,
         "country": "Netherlands",
@@ -786,6 +828,34 @@
         "city": "Auckland"
     },
     {
+        "timeZone": "America/Lima",
+        "offset": -5.0,
+        "country": "Per\u00FA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-lima-per"
+        ],
+        "name": "Lima, Per\u00FA",
+        "coords": [
+            -12.046374,
+            -77.0427934
+        ],
+        "city": "Lima"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-gdansk-poland"
+        ],
+        "name": "Gdansk, Poland",
+        "coords": [
+            54.35202520000001,
+            18.6466384
+        ],
+        "city": "Gdansk"
+    },
+    {
         "timeZone": "Europe/Warsaw",
         "offset": 1.0,
         "country": "Poland",
@@ -812,6 +882,20 @@
             19.9449799
         ],
         "city": "Krak\u00F3w"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-pozna-poland"
+        ],
+        "name": "Pozna\u0144, Poland",
+        "coords": [
+            52.406374,
+            16.9251681
+        ],
+        "city": "Pozna\u0144"
     },
     {
         "timeZone": "Europe/Warsaw",
@@ -925,6 +1009,20 @@
             21.2086793
         ],
         "city": "Timisoara"
+    },
+    {
+        "timeZone": "Europe/Moscow",
+        "offset": 3.0,
+        "country": "Russia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-moscow-russia"
+        ],
+        "name": "Moscow, Russia",
+        "coords": [
+            55.755826,
+            37.6173
+        ],
+        "city": "Moscow"
     },
     {
         "timeZone": "Europe/Belgrade",
@@ -1093,6 +1191,20 @@
             11.97456
         ],
         "city": "Gothenburg"
+    },
+    {
+        "timeZone": "Europe/Stockholm",
+        "offset": 1.0,
+        "country": "Sweden",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-stockholm"
+        ],
+        "name": "Stockholm, Sweden",
+        "coords": [
+            59.32932349999999,
+            18.0685808
+        ],
+        "city": "Stockholm"
     },
     {
         "timeZone": "Europe/Zurich",
@@ -1410,7 +1522,6 @@
         "offset": -5.0,
         "country": "USA",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states-1"
         ],
         "name": "New York City, NY, USA",
