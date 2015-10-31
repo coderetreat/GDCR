@@ -495,6 +495,20 @@
         "offset": 1.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-l-beck-germany-1"
+        ],
+        "name": "L\u00FCbeck, Germany",
+        "coords": [
+            53.8654673,
+            10.6865593
+        ],
+        "city": "L\u00FCbeck"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-munich-germany"
         ],
         "name": "Munich, Germany",
@@ -1558,6 +1572,20 @@
             -74.41738769999999
         ],
         "city": "Parsippany, NJ"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-pittsburgh-pa-usa"
+        ],
+        "name": "Pittsburgh, PA, USA",
+        "coords": [
+            40.44062479999999,
+            -79.9958864
+        ],
+        "city": "Pittsburgh, PA"
     },
     {
         "timeZone": "America/Los_Angeles",
