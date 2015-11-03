@@ -42,6 +42,20 @@
         "city": "Vienna"
     },
     {
+        "timeZone": "Asia/Dhaka",
+        "offset": 6.0,
+        "country": "Bangladesh",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-3"
+        ],
+        "name": "Dhaka, Bangladesh",
+        "coords": [
+            23.810332,
+            90.4125181
+        ],
+        "city": "Dhaka"
+    },
+    {
         "timeZone": "Europe/Minsk",
         "offset": 3.0,
         "country": "Belarus",
@@ -659,6 +673,20 @@
         "city": "Pune"
     },
     {
+        "timeZone": "Europe/Dublin",
+        "offset": 0.0,
+        "country": "Ireland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2015-dublin"
+        ],
+        "name": "Dublin, Ireland",
+        "coords": [
+            53.3498053,
+            -6.2603097
+        ],
+        "city": "Dublin"
+    },
+    {
         "timeZone": "Asia/Jerusalem",
         "offset": 2.0,
         "country": "Israel",
@@ -1039,6 +1067,20 @@
         "city": "Moscow"
     },
     {
+        "timeZone": "Europe/Moscow",
+        "offset": 3.0,
+        "country": "Russia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-saint-petersburg-russia"
+        ],
+        "name": "Saint-Petersburg, Russia",
+        "coords": [
+            59.9342802,
+            30.3350986
+        ],
+        "city": "Saint-Petersburg"
+    },
+    {
         "timeZone": "Europe/Belgrade",
         "offset": 1.0,
         "country": "Serbia",
@@ -1099,6 +1141,20 @@
         "offset": 2.0,
         "country": "South Africa",
         "urls": [
+            "http://coderetreat.org/events/durban-global-code-retreat"
+        ],
+        "name": "Durban, South Africa",
+        "coords": [
+            -29.85868039999999,
+            31.0218404
+        ],
+        "city": "Durban"
+    },
+    {
+        "timeZone": "Africa/Johannesburg",
+        "offset": 2.0,
+        "country": "South Africa",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-johannesburg-south-africa"
         ],
         "name": "Johannesburg, South Africa",
@@ -1107,6 +1163,20 @@
             28.0473051
         ],
         "city": "Johannesburg"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-alicante-spain"
+        ],
+        "name": "Alicante, Spain",
+        "coords": [
+            38.3459963,
+            -0.4906855
+        ],
+        "city": "Alicante"
     },
     {
         "timeZone": "Europe/Madrid",
@@ -1149,6 +1219,20 @@
             -2.4449852
         ],
         "city": "Logro\u00F1o"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 1.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/m-stoles-global-day-of-coderetreat-2015-m-stoles-spain"
+        ],
+        "name": "Madrid, Spain",
+        "coords": [
+            40.4167754,
+            -3.7037902
+        ],
+        "city": "Madrid"
     },
     {
         "timeZone": "Europe/Madrid",
@@ -1211,6 +1295,7 @@
         "offset": 1.0,
         "country": "Sweden",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-stockholm-sweden",
             "http://coderetreat.org/events/global-day-of-coderetreat-stockholm"
         ],
         "name": "Stockholm, Sweden",
@@ -1516,6 +1601,20 @@
             -157.8583333
         ],
         "city": "Honolulu, HI"
+    },
+    {
+        "timeZone": "America/Denver",
+        "offset": -7.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-lehi-ut-usa"
+        ],
+        "name": "Lehi, UT, USA",
+        "coords": [
+            40.3916172,
+            -111.8507662
+        ],
+        "city": "Lehi, UT"
     },
     {
         "timeZone": "America/Los_Angeles",
