@@ -57,20 +57,15 @@ class Sponsor
   attr_reader :name, :url
 end
 
-def galaxy_sponsors
-  [
-    Sponsor.new('ThoughtWorks', 'http://www.thoughtworks.com'),
-  ]
-end
-
-def globe_sponsors
-  [
-    Sponsor.new('Github', 'https://github.com'),
-  ]
-end
-
 def continent_sponsors
   [
     Sponsor.new('8th Light', 'https://8thlight.com/'),
+    Sponsor.new('Zopa', 'http://www.zopa.com/'),
+  ]
+end
+
+def timezone_sponsors
+  [
+    Sponsor.new('ThoughtWorks', 'http://www.thoughtworks.com'),
   ]
 end
