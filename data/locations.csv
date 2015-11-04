@@ -12,6 +12,7 @@ Canada	Winnipeg	49.8997541	-97.1374937	America/Winnipeg	-6.0	http://coderetreat.
 Chile	Santiago	-33.4488897	-70.6692655	America/Santiago	-3.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-santiago-chile-by-chileagil
 China	Beijing	39.904211	116.407395	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-beijing-china
 China	Chengdu	30.572269	104.066541	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-chengdu-china
+China	Hangzhou	30.274085	120.15507	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-hangzhou-2015
 China	Shanghai	31.230416	121.473701	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-shanghai-china
 China	Shenzhen	22.543099	114.057868	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-shenzhen-china
 China	Taiyuan	37.87059	112.548879	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-taiyuan-china
@@ -110,7 +111,7 @@ USA	Arlington, VA	38.8799697	-77.1067698	America/New_York	-5.0	http://coderetrea
 USA	Ashburn, VA	39.0437567	-77.4874416	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-3
 USA	Atlanta, GA	33.7489954	-84.3879824	America/New_York	-5.0	http://coderetreat.org/events/gdcr-atlanta-ga-us
 USA	Austin, TX	30.267153	-97.7430608	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-austin-tx-usa
-USA	Bend, Oregon	44.0581728	-121.3153096	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-bend-oregon
+USA	Bend, OR	44.0581728	-121.3153096	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-bend-oregon
 USA	Boston, MA	42.3600825	-71.0588801	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-boston-ma
 USA	Chicago, IL	41.8781136	-87.6297982	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-chicago-il-usa
 USA	Cleveland, OH	41.49932	-81.6943605	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-cleveland

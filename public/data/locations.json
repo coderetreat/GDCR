@@ -200,6 +200,20 @@
         "offset": 8.0,
         "country": "China",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-hangzhou-2015"
+        ],
+        "name": "Hangzhou, China",
+        "coords": [
+            30.274085,
+            120.15507
+        ],
+        "city": "Hangzhou"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-shanghai-china"
         ],
         "name": "Shanghai, China",
@@ -1483,12 +1497,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-bend-oregon"
         ],
-        "name": "Bend, Oregon, USA",
+        "name": "Bend, OR, USA",
         "coords": [
             44.0581728,
             -121.3153096
         ],
-        "city": "Bend, Oregon"
+        "city": "Bend, OR"
     },
     {
         "timeZone": "America/New_York",
