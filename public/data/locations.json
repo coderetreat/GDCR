@@ -60,6 +60,34 @@
         "offset": 3.0,
         "country": "Belarus",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-brest-belarus"
+        ],
+        "name": "Brest, Belarus",
+        "coords": [
+            52.09762139999999,
+            23.7340503
+        ],
+        "city": "Brest"
+    },
+    {
+        "timeZone": "Europe/Minsk",
+        "offset": 3.0,
+        "country": "Belarus",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-grodno-belarus"
+        ],
+        "name": "Grodno, Belarus",
+        "coords": [
+            53.6693538,
+            23.8131306
+        ],
+        "city": "Grodno"
+    },
+    {
+        "timeZone": "Europe/Minsk",
+        "offset": 3.0,
+        "country": "Belarus",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-minsk-belarus"
         ],
         "name": "Minsk, Belarus",
@@ -446,6 +474,20 @@
             10.5267696
         ],
         "city": "Braunschweig"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-dresden-germany"
+        ],
+        "name": "Dresden, Germany",
+        "coords": [
+            51.0504088,
+            13.7372621
+        ],
+        "city": "Dresden"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -1643,6 +1685,20 @@
             -118.2436849
         ],
         "city": "Los Angeles, CA"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-tufts"
+        ],
+        "name": "Medford, MA, USA",
+        "coords": [
+            42.4184296,
+            -71.1061639
+        ],
+        "city": "Medford, MA"
     },
     {
         "timeZone": "America/New_York",

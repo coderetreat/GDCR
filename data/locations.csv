@@ -2,6 +2,8 @@ Argentina	Corrientes	-27.4692131	-58.8306349	America/Cordoba	-3.0	http://coderet
 Australia	Melbourne	-37.814107	144.96328	Australia/Hobart	11.0	http://coderetreat.org/events/global-day-of-coderetreat-2015
 Austria	Vienna	48.2081743	16.3738189	Europe/Vienna	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-vienna-austria
 Bangladesh	Dhaka	23.810332	90.4125181	Asia/Dhaka	6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-3
+Belarus	Brest	52.09762139999999	23.7340503	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-brest-belarus
+Belarus	Grodno	53.6693538	23.8131306	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-grodno-belarus
 Belarus	Minsk	53.90453979999999	27.5615244	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-minsk-belarus
 Belarus	Mogilev	53.90071589999999	30.3313598	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-mogilev-by
 Belarus	Vitebsk	55.1848061	30.201622	Europe/Minsk	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-vitebsk-belarus
@@ -30,6 +32,7 @@ France	Paris	48.856614	2.3522219	Europe/Paris	1.0	http://coderetreat.org/events/
 Germany	Berlin	52.52000659999999	13.404954	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-berlin-germany
 Germany	Bielefeld	52.0302285	8.532470800000002	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-bielefeld-germany
 Germany	Braunschweig	52.2688736	10.5267696	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-braunschweig-germany
+Germany	Dresden	51.0504088	13.7372621	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-dresden-germany
 Germany	Erlangen	49.5896744	11.0119611	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-erlangen-germany
 Germany	Erlangen	49.5896744	11.0119611	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-erlangen-germany-1
 Germany	Essen	51.4556432	7.0115552	Europe/Berlin	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-essen-germany
@@ -122,6 +125,7 @@ USA	Des Moines, IA	41.6005448	-93.6091064	America/Chicago	-6.0	http://coderetrea
 USA	Honolulu, HI	21.3069444	-157.8583333	Pacific/Honolulu	-10.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-honolulu-usa
 USA	Lehi, UT	40.3916172	-111.8507662	America/Denver	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-lehi-ut-usa
 USA	Los Angeles, CA	34.0522342	-118.2436849	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-los-angeles-ca-usa
+USA	Medford, MA	42.4184296	-71.1061639	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-tufts
 USA	New York City, NY	40.7127837	-74.0059413	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-new-york-city-united-states-1
 USA	Omaha, NE	41.2523634	-95.99798829999999	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-omaha-ne
 USA	Parsippany, NJ	40.8652865	-74.41738769999999	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-parsippany-nj-usa
