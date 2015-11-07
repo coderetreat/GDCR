@@ -38,7 +38,8 @@ end
 serve_pages(["hosts",
              "hosts/faq",
              "hosts/guide",
-             "timeline-2014"
+             "timeline-2014",
+             "timeline-2015"
 ])
 
 def event_count
