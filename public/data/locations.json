@@ -323,6 +323,20 @@
         "city": "Bogot\u00E1"
     },
     {
+        "timeZone": "America/Bogota",
+        "offset": -5.0,
+        "country": "Colombia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-manizales-colombia"
+        ],
+        "name": "Manizales, Colombia",
+        "coords": [
+            5.070275,
+            -75.5138166
+        ],
+        "city": "Manizales"
+    },
+    {
         "timeZone": "America/Costa_Rica",
         "offset": -6.0,
         "country": "Costa Rica",
@@ -868,6 +882,20 @@
             21.4279956
         ],
         "city": "Skopje"
+    },
+    {
+        "timeZone": "America/Mexico_City",
+        "offset": -6.0,
+        "country": "Mexico",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-guadalajara-jalisco"
+        ],
+        "name": "Guadalajara, Mexico",
+        "coords": [
+            20.6596988,
+            -103.3496092
+        ],
+        "city": "Guadalajara"
     },
     {
         "timeZone": "America/Mexico_City",
