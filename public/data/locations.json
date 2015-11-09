@@ -1480,6 +1480,20 @@
         "offset": 0.0,
         "country": "UK",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-cambridge-uk"
+        ],
+        "name": "Cambridge, UK",
+        "coords": [
+            52.205337,
+            0.121817
+        ],
+        "city": "Cambridge"
+    },
+    {
+        "timeZone": "Europe/London",
+        "offset": 0.0,
+        "country": "UK",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-glasgow"
         ],
         "name": "Glasgow, UK",
