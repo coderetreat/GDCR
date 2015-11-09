@@ -154,6 +154,20 @@
         "city": "Vitebsk"
     },
     {
+        "timeZone": "Europe/Brussels",
+        "offset": 1.0,
+        "country": "Belgium",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-belgian-edition"
+        ],
+        "name": "Brussels, Belgium",
+        "coords": [
+            50.8503396,
+            4.3517103
+        ],
+        "city": "Brussels"
+    },
+    {
         "timeZone": "America/Fortaleza",
         "offset": -3.0,
         "country": "Brazil",
