@@ -1409,6 +1409,20 @@
         "offset": 1.0,
         "country": "Sweden",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-malm-sweden"
+        ],
+        "name": "Malm\u00F6, Sweden",
+        "coords": [
+            55.604981,
+            13.003822
+        ],
+        "city": "Malm\u00F6"
+    },
+    {
+        "timeZone": "Europe/Stockholm",
+        "offset": 1.0,
+        "country": "Sweden",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-stockholm-sweden",
             "http://coderetreat.org/events/global-day-of-coderetreat-stockholm"
         ],
