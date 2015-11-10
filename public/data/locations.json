@@ -196,6 +196,20 @@
         "city": "Calgary"
     },
     {
+        "timeZone": "America/Halifax",
+        "offset": -4.0,
+        "country": "Canada",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-4"
+        ],
+        "name": "Charlottetown, PEI, Canada",
+        "coords": [
+            46.23824,
+            -63.13107040000001
+        ],
+        "city": "Charlottetown, PEI"
+    },
+    {
         "timeZone": "America/Toronto",
         "offset": -5.0,
         "country": "Canada",
@@ -448,6 +462,20 @@
             14.4378005
         ],
         "city": "Prague"
+    },
+    {
+        "timeZone": "America/Guayaquil",
+        "offset": -5.0,
+        "country": "Ecuador",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-quito-ecuador"
+        ],
+        "name": "Quito, Ecuador",
+        "coords": [
+            -0.1806532,
+            -78.4678382
+        ],
+        "city": "Quito"
     },
     {
         "timeZone": "Europe/Paris",
@@ -984,6 +1012,20 @@
         "city": "Auckland"
     },
     {
+        "timeZone": "Pacific/Auckland",
+        "offset": 13.0,
+        "country": "New Zealand",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-wellington-new-zealand"
+        ],
+        "name": "Wellington, New Zealand",
+        "coords": [
+            -41.2864603,
+            174.776236
+        ],
+        "city": "Wellington"
+    },
+    {
         "timeZone": "America/Lima",
         "offset": -5.0,
         "country": "Per\u00FA",
@@ -1038,6 +1080,20 @@
             19.0237815
         ],
         "city": "Katowice, Silesia"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-krakow-poland"
+        ],
+        "name": "Krakow, Poland",
+        "coords": [
+            50.06465009999999,
+            19.9449799
+        ],
+        "city": "Krakow"
     },
     {
         "timeZone": "Europe/Warsaw",

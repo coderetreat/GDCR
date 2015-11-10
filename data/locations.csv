@@ -12,6 +12,7 @@ Belarus	Vitebsk	55.1848061	30.201622	Europe/Minsk	3.0	http://coderetreat.org/eve
 Belgium	Brussels	50.8503396	4.3517103	Europe/Brussels	1.0	http://coderetreat.org/events/global-day-of-coderetreat-belgian-edition
 Brazil	Fortaleza	-3.7318616	-38.5266704	America/Fortaleza	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-fortaleza-brazil
 Canada	Calgary	51.0486151	-114.0708459	America/Edmonton	-7.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-calgary-canada
+Canada	Charlottetown, PEI	46.23824	-63.13107040000001	America/Halifax	-4.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-4
 Canada	Toronto	43.653226	-79.3831843	America/Toronto	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-toronto-canada
 Canada	Winnipeg	49.8997541	-97.1374937	America/Winnipeg	-6.0	http://coderetreat.org/events/global-day-coderetreat-2015
 Chile	Santiago	-33.4488897	-70.6692655	America/Santiago	-3.0	http://coderetreat.org/events/global-day-of-code-retreat-2015-santiago-chile-by-chileagil
@@ -32,6 +33,7 @@ Czech Republic	Brno	49.1950602	16.6068371	Europe/Prague	1.0	http://coderetreat.o
 Czech Republic	Jihlava	49.3983782	15.5870415	Europe/Prague	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-jihlava-czech-republic
 Czech Republic	Olomouc	49.593778	17.2508787	Europe/Prague	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-olomouc-czech-republic
 Czech Republic	Prague	50.0755381	14.4378005	Europe/Prague	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-prague-czech-republic
+Ecuador	Quito	-0.1806532	-78.4678382	America/Guayaquil	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-quito-ecuador
 France	Lille	50.62925	3.057256	Europe/Paris	1.0	http://coderetreat.org/events/global-day-of-code-retreat-lille-france-2015
 France	Lyon	45.764043	4.835659	Europe/Paris	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-lyon-france
 France	Paris	48.856614	2.3522219	Europe/Paris	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-paris-france
@@ -72,10 +74,12 @@ México	Aguascalientes	21.8852562	-102.2915677	America/Mexico_City	-6.0	http://c
 Netherlands	Arnhem	51.9851034	5.898729599999999	Europe/Amsterdam	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-arnhem-netherlands
 New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-auckland-new-zealand
 New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-auckland-new-zealand
+New Zealand	Wellington	-41.2864603	174.776236	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-wellington-new-zealand
 Perú	Lima	-12.046374	-77.0427934	America/Lima	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-lima-per
 Philippines	Manila	14.5995124	120.9842195	Asia/Manila	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-manila-philippines
 Poland	Gdansk	54.35202520000001	18.6466384	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-gdansk-poland
 Poland	Katowice, Silesia	50.26489189999999	19.0237815	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-katowice-silesia-poland
+Poland	Krakow	50.06465009999999	19.9449799	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-krakow-poland
 Poland	Kraków	50.06465009999999	19.9449799	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-krak-w-poland
 Poland	Poznań	52.406374	16.9251681	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-pozna-poland
 Poland	Warsaw	52.2296756	21.0122287	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-for-mobile-developers-polidea-warsaw
