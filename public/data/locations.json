@@ -1086,21 +1086,8 @@
         "offset": 1.0,
         "country": "Poland",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-krak-w-poland",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-krakow-poland"
-        ],
-        "name": "Krakow, Poland",
-        "coords": [
-            50.06465009999999,
-            19.9449799
-        ],
-        "city": "Krakow"
-    },
-    {
-        "timeZone": "Europe/Warsaw",
-        "offset": 1.0,
-        "country": "Poland",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-krak-w-poland"
         ],
         "name": "Krak\u00F3w, Poland",
         "coords": [
