@@ -707,6 +707,20 @@
         "offset": 2.0,
         "country": "Greece",
         "urls": [
+            "http://coderetreat.org/events/athens-code-retreat-2015-global-day-of-code-retreat-one-day-early"
+        ],
+        "name": "Athens, Greece",
+        "coords": [
+            37.983917,
+            23.7293599
+        ],
+        "city": "Athens"
+    },
+    {
+        "timeZone": "Europe/Athens",
+        "offset": 2.0,
+        "country": "Greece",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-thessaloniki-greece"
         ],
         "name": "Thessaloniki, Greece",
@@ -1038,6 +1052,20 @@
             18.6466384
         ],
         "city": "Gdansk"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 1.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-gda-sk-poland-one-day-early"
+        ],
+        "name": "Gda\u0144sk, Poland",
+        "coords": [
+            54.35202520000001,
+            18.6466384
+        ],
+        "city": "Gda\u0144sk"
     },
     {
         "timeZone": "Europe/Warsaw",
