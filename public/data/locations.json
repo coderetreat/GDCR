@@ -14,20 +14,6 @@
         "city": "Corrientes"
     },
     {
-        "timeZone": "Australia/Brisbane",
-        "offset": 10.0,
-        "country": "Australia",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-brisbane-australia"
-        ],
-        "name": "Brisbane, Australia",
-        "coords": [
-            -27.4710107,
-            153.0234489
-        ],
-        "city": "Brisbane"
-    },
-    {
         "timeZone": "Australia/Hobart",
         "offset": 11.0,
         "country": "Australia",
@@ -532,20 +518,6 @@
             13.404954
         ],
         "city": "Berlin"
-    },
-    {
-        "timeZone": "Europe/Berlin",
-        "offset": 1.0,
-        "country": "Germany",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-bielefeld-germany"
-        ],
-        "name": "Bielefeld, Germany",
-        "coords": [
-            52.0302285,
-            8.532470800000002
-        ],
-        "city": "Bielefeld"
     },
     {
         "timeZone": "Europe/Berlin",
