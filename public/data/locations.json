@@ -707,20 +707,6 @@
         "offset": 2.0,
         "country": "Greece",
         "urls": [
-            "http://coderetreat.org/events/athens-code-retreat-2015-global-day-of-code-retreat-one-day-early"
-        ],
-        "name": "Athens, Greece",
-        "coords": [
-            37.983917,
-            23.7293599
-        ],
-        "city": "Athens"
-    },
-    {
-        "timeZone": "Europe/Athens",
-        "offset": 2.0,
-        "country": "Greece",
-        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-thessaloniki-greece"
         ],
         "name": "Thessaloniki, Greece",
@@ -1044,21 +1030,8 @@
         "offset": 1.0,
         "country": "Poland",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-gda-sk-poland-one-day-early",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-gdansk-poland"
-        ],
-        "name": "Gdansk, Poland",
-        "coords": [
-            54.35202520000001,
-            18.6466384
-        ],
-        "city": "Gdansk"
-    },
-    {
-        "timeZone": "Europe/Warsaw",
-        "offset": 1.0,
-        "country": "Poland",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2015-gda-sk-poland-one-day-early"
         ],
         "name": "Gda\u0144sk, Poland",
         "coords": [
@@ -1646,6 +1619,20 @@
             -77.4874416
         ],
         "city": "Ashburn, VA"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/athens-code-retreat-2015-global-day-of-code-retreat-one-day-early"
+        ],
+        "name": "Athens, GA, USA",
+        "coords": [
+            33.9519347,
+            -83.357567
+        ],
+        "city": "Athens, GA"
     },
     {
         "timeZone": "America/New_York",
