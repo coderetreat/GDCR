@@ -506,6 +506,20 @@
         "city": "Paris"
     },
     {
+        "timeZone": "Europe/Paris",
+        "offset": 1.0,
+        "country": "France",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-toulouse-france"
+        ],
+        "name": "Toulouse, France",
+        "coords": [
+            43.604652,
+            1.444209
+        ],
+        "city": "Toulouse"
+    },
+    {
         "timeZone": "Europe/Berlin",
         "offset": 1.0,
         "country": "Germany",
@@ -518,6 +532,20 @@
             13.404954
         ],
         "city": "Berlin"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 1.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/ak-global-day-of-coderetreat-at-kif-43-5"
+        ],
+        "name": "Bonn, Germany",
+        "coords": [
+            50.73743,
+            7.0982068
+        ],
+        "city": "Bonn"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -1088,7 +1116,6 @@
         "offset": 1.0,
         "country": "Poland",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-for-mobile-developers-polidea-warsaw",
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-warsaw-poland"
         ],
         "name": "Warsaw, Poland",
@@ -1519,6 +1546,20 @@
             28.9783589
         ],
         "city": "Istanbul"
+    },
+    {
+        "timeZone": "Europe/Istanbul",
+        "offset": 2.0,
+        "country": "Turkey",
+        "urls": [
+            "http://coderetreat.org/events/coderetreat-2015-zmir-ztech"
+        ],
+        "name": "\u0130zmir, Turkey",
+        "coords": [
+            38.423734,
+            27.142826
+        ],
+        "city": "\u0130zmir"
     },
     {
         "timeZone": "Europe/London",
