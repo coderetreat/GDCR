@@ -72,12 +72,12 @@ Mexico	Guadalajara	20.6596988	-103.3496092	America/Mexico_City	-6.0	http://coder
 Mexico	Oaxaca	17.0594169	-96.7216219	America/Mexico_City	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-2
 México	Aguascalientes	21.8852562	-102.2915677	America/Mexico_City	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-aguascalientes-m-xico
 Netherlands	Arnhem	51.9851034	5.898729599999999	Europe/Amsterdam	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-arnhem-netherlands
+New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://coderetreat.org/events/kiwi-code-retreat-functional-style
 New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-auckland-new-zealand
 New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-auckland-new-zealand
 New Zealand	Wellington	-41.2864603	174.776236	Pacific/Auckland	13.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-wellington-new-zealand
 Perú	Lima	-12.046374	-77.0427934	America/Lima	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-lima-per
 Philippines	Manila	14.5995124	120.9842195	Asia/Manila	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-manila-philippines
-Poland	Gdańsk	54.35202520000001	18.6466384	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-gda-sk-poland-one-day-early
 Poland	Gdańsk	54.35202520000001	18.6466384	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-gdansk-poland
 Poland	Katowice, Silesia	50.26489189999999	19.0237815	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-katowice-silesia-poland
 Poland	Kraków	50.06465009999999	19.9449799	Europe/Warsaw	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-krak-w-poland
@@ -126,7 +126,6 @@ UK	Peterborough	52.56949849999999	-0.2405299	Europe/London	0.0	http://coderetrea
 USA	Ann Arbor, MI	42.2808256	-83.7430378	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-ann-arbor-mi-usa
 USA	Arlington, VA	38.8799697	-77.1067698	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-arlington-va-usa
 USA	Ashburn, VA	39.0437567	-77.4874416	America/New_York	-5.0	http://coderetreat.org/events/global-day-of-code-retreat-3
-USA	Athens, GA	33.9519347	-83.357567	America/New_York	-5.0	http://coderetreat.org/events/athens-code-retreat-2015-global-day-of-code-retreat-one-day-early
 USA	Atlanta, GA	33.7489954	-84.3879824	America/New_York	-5.0	http://coderetreat.org/events/gdcr-atlanta-ga-us
 USA	Austin, TX	30.267153	-97.7430608	America/Chicago	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2015-austin-tx-usa
 USA	Bend, OR	44.0581728	-121.3153096	America/Los_Angeles	-8.0	http://coderetreat.org/events/global-day-of-coderetreat-bend-oregon
