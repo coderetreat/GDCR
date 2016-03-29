@@ -109,26 +109,6 @@
 </div>
 
 <section class="sponsors">
-    <h2>We love our sponsors!</h2>
-
-    <div class="sponsor-level continent">
-      <h3>Continent Sponsors</h3>
-      <div class="sponsors-container">
-        <% continent_sponsors.each do |sponsor| %>
-          <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
-        <% end %>
-      </div>
-    </div>
-
-    <div class="sponsor-level timezone">
-      <h3>Time-Zone Sponsors</h3>
-      <div class="sponsors-container">
-        <% timezone_sponsors.each do |sponsor| %>
-          <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
-        <% end %>
-      </div>
-    </div>
-
     <div class="new-sponsor">
         <h3>You could be a sponsor</h3>
 
