@@ -1,3 +1,310 @@
 [
-
+    {
+        "timeZone": "America/Cordoba",
+        "offset": -3.0,
+        "country": "ARGENTINA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-corrientes-argentina"
+        ],
+        "name": "CORRIENTES, ARGENTINA",
+        "coords": [
+            -27.4692131,
+            -58.8306349
+        ],
+        "city": "CORRIENTES"
+    },
+    {
+        "timeZone": "Australia/Hobart",
+        "offset": 11.0,
+        "country": "Australia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-melbourne-australia"
+        ],
+        "name": "Melbourne, Australia",
+        "coords": [
+            -37.8136276,
+            144.9630576
+        ],
+        "city": "Melbourne"
+    },
+    {
+        "timeZone": "America/Edmonton",
+        "offset": -6.0,
+        "country": "CANADA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-calgary-canada"
+        ],
+        "name": "CALGARY, CANADA",
+        "coords": [
+            51.0486151,
+            -114.0708459
+        ],
+        "city": "CALGARY"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 2.0,
+        "country": "CZ",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-brno-2016"
+        ],
+        "name": "Brno, CZ",
+        "coords": [
+            49.1950602,
+            16.6068371
+        ],
+        "city": "Brno"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 2.0,
+        "country": "FRANCE",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-bordeaux-france"
+        ],
+        "name": "Bordeaux, FRANCE",
+        "coords": [
+            44.837789,
+            -0.57918
+        ],
+        "city": "Bordeaux"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-1"
+        ],
+        "name": "Erlangen, Germany",
+        "coords": [
+            49.5896744,
+            11.0119611
+        ],
+        "city": "Erlangen"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-fulda-germany"
+        ],
+        "name": "Fulda, Germany",
+        "coords": [
+            50.5558095,
+            9.6808449
+        ],
+        "city": "Fulda"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2015-munich-germany-1"
+        ],
+        "name": "Munich, Germany",
+        "coords": [
+            48.1351253,
+            11.5819806
+        ],
+        "city": "Munich"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-nuremberg-germany"
+        ],
+        "name": "Nuremberg, Germany",
+        "coords": [
+            49.45203,
+            11.07675
+        ],
+        "city": "Nuremberg"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-osnabr-ck-germany"
+        ],
+        "name": "Osnabr\u00fcck, Germany",
+        "coords": [
+            52.2799112,
+            8.0471788
+        ],
+        "city": "Osnabr\u00fcck"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-solingen-germany"
+        ],
+        "name": "Solingen, Germany",
+        "coords": [
+            51.17020720000001,
+            7.0831408
+        ],
+        "city": "Solingen"
+    },
+    {
+        "timeZone": "Europe/Athens",
+        "offset": 3.0,
+        "country": "Greece",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-thessaloniki-greece"
+        ],
+        "name": "Thessaloniki, Greece",
+        "coords": [
+            40.6400629,
+            22.9444191
+        ],
+        "city": "Thessaloniki"
+    },
+    {
+        "timeZone": "Asia/Calcutta",
+        "offset": 5.5,
+        "country": "India",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-bangalore-india"
+        ],
+        "name": "Bangalore, India",
+        "coords": [
+            12.9715987,
+            77.5945627
+        ],
+        "city": "Bangalore"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 2.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-wroclaw-poland"
+        ],
+        "name": "Wroclaw, Poland",
+        "coords": [
+            51.1078852,
+            17.0385376
+        ],
+        "city": "Wroclaw"
+    },
+    {
+        "timeZone": "Europe/Zurich",
+        "offset": 2.0,
+        "country": "Switzerland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-bern-switzerland"
+        ],
+        "name": "Bern, Switzerland",
+        "coords": [
+            46.9479739,
+            7.4474468
+        ],
+        "city": "Bern"
+    },
+    {
+        "timeZone": "Europe/Zurich",
+        "offset": 2.0,
+        "country": "Switzerland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-st-gallen-switzerland"
+        ],
+        "name": "St. Gallen, Switzerland",
+        "coords": [
+            47.4244818,
+            9.3767173
+        ],
+        "city": "St. Gallen"
+    },
+    {
+        "timeZone": "Europe/Zurich",
+        "offset": 2.0,
+        "country": "Switzerland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-zurich-switzerland"
+        ],
+        "name": "Zurich, Switzerland",
+        "coords": [
+            47.3768866,
+            8.541694
+        ],
+        "city": "Zurich"
+    },
+    {
+        "timeZone": "Europe/Istanbul",
+        "offset": 3.0,
+        "country": "Turkey",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-istanbul-turkey"
+        ],
+        "name": "Istanbul, Turkey",
+        "coords": [
+            41.0082376,
+            28.9783589
+        ],
+        "city": "Istanbul"
+    },
+    {
+        "timeZone": "Europe/London",
+        "offset": 1.0,
+        "country": "UK",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-london-uk"
+        ],
+        "name": "London, UK",
+        "coords": [
+            51.5073509,
+            -0.1277583
+        ],
+        "city": "London"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -4.0,
+        "country": "US",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-new-york-us"
+        ],
+        "name": "New York, US",
+        "coords": [
+            40.7127837,
+            -74.0059413
+        ],
+        "city": "New York"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -7.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-medford-or-usa"
+        ],
+        "name": "Medford, OR, USA",
+        "coords": [
+            42.3265152,
+            -122.8755949
+        ],
+        "city": "Medford, OR"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -7.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-portland-or-usa"
+        ],
+        "name": "Portland, OR, USA",
+        "coords": [
+            45.5230622,
+            -122.6764816
+        ],
+        "city": "Portland, OR"
+    }
 ]
