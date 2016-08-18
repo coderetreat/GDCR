@@ -88,6 +88,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016"
+        ],
+        "name": "Frankfurt, Germany",
+        "coords": [
+            50.1109221,
+            8.6821267
+        ],
+        "city": "Frankfurt"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-fulda-germany"
         ],
         "name": "Fulda, Germany",
@@ -194,6 +208,20 @@
             73.8567437
         ],
         "city": "Pune"
+    },
+    {
+        "timeZone": "Europe/Riga",
+        "offset": 3.0,
+        "country": "Latvia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016"
+        ],
+        "name": "Riga, Latvia",
+        "coords": [
+            56.9496487,
+            24.1051864
+        ],
+        "city": "Riga"
     },
     {
         "timeZone": "Europe/Warsaw",
