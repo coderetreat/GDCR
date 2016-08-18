@@ -182,6 +182,20 @@
         "city": "Bangalore"
     },
     {
+        "timeZone": "Asia/Calcutta",
+        "offset": 5.5,
+        "country": "India",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-pune-2016"
+        ],
+        "name": "Pune, India",
+        "coords": [
+            18.5204303,
+            73.8567437
+        ],
+        "city": "Pune"
+    },
+    {
         "timeZone": "Europe/Warsaw",
         "offset": 2.0,
         "country": "Poland",
