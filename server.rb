@@ -18,6 +18,11 @@ get "/print.css" do
   scss :print
 end
 
+get "/training.css" do
+  scss :training
+end
+
+
 get "/logo/vote" do
   erb :vote
 end
@@ -39,7 +44,8 @@ serve_pages(["hosts",
              "hosts/faq",
              "hosts/guide",
              "timeline-2014",
-             "timeline-2015"
+             "timeline-2015",
+             "training"
 ])
 
 def event_count
