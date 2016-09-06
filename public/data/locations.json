@@ -84,6 +84,34 @@
         "city": "Ostrava"
     },
     {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "DE",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-weinsberg-de"
+        ],
+        "name": "Weinsberg, DE",
+        "coords": [
+            49.1484633,
+            9.287265699999999
+        ],
+        "city": "Weinsberg"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "Espa\u00f1a",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a"
+        ],
+        "name": "Madrid, Espa\u00f1a",
+        "coords": [
+            40.4167754,
+            -3.7037902
+        ],
+        "city": "Madrid"
+    },
+    {
         "timeZone": "Europe/Paris",
         "offset": 2.0,
         "country": "FRANCE",
@@ -104,12 +132,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-2"
         ],
-        "name": "Nice, France",
+        "name": "Sophia Antipolis, France",
         "coords": [
-            43.7101728,
-            7.261953200000001
+            43.6163539,
+            7.0552218
         ],
-        "city": "Nice"
+        "city": "Sophia Antipolis"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -362,6 +390,34 @@
             15.5061862
         ],
         "city": "Zielona G\u00f3ra"
+    },
+    {
+        "timeZone": "Asia/Yekaterinburg",
+        "offset": 5.0,
+        "country": "Russia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-tyumen-russia"
+        ],
+        "name": "Tyumen, Russia",
+        "coords": [
+            57.1612975,
+            65.5250172
+        ],
+        "city": "Tyumen"
+    },
+    {
+        "timeZone": "Africa/Johannesburg",
+        "offset": 2.0,
+        "country": "South Africa",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-durban-south-africa"
+        ],
+        "name": "Durban, South Africa",
+        "coords": [
+            -29.85868039999999,
+            31.0218404
+        ],
+        "city": "Durban"
     },
     {
         "timeZone": "Europe/Zurich",

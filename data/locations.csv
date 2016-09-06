@@ -4,8 +4,10 @@ Belarus	Minsk	53.90453979999999	27.5615244	Europe/Minsk	3.0	http://coderetreat.o
 CANADA	CALGARY	51.0486151	-114.0708459	America/Edmonton	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-calgary-canada
 CZ	Brno	49.1950602	16.6068371	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-coderetreat-brno-2016
 Czech Republic	Ostrava	49.8209226	18.2625243	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-ostrava-czech-republic
+DE	Weinsberg	49.1484633	9.287265699999999	Europe/Berlin	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-weinsberg-de
+España	Madrid	40.4167754	-3.7037902	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a
 FRANCE	Bordeaux	44.837789	-0.57918	Europe/Paris	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-bordeaux-france
-France	Nice	43.7101728	7.261953200000001	Europe/Paris	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-2
+France	Sophia Antipolis	43.6163539	7.0552218	Europe/Paris	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-2
 Germany	Erlangen	49.5896744	11.0119611	Europe/Berlin	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-1
 Germany	Frankfurt	50.1109221	8.6821267	Europe/Berlin	2.0	http://coderetreat.org/events/global-day-of-code-retreat-2016
 Germany	Fulda	50.5558095	9.6808449	Europe/Berlin	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-fulda-germany
@@ -24,6 +26,8 @@ New Zealand	Auckland	-36.8484597	174.7633315	Pacific/Auckland	13.0	http://codere
 Poland	Poznan	52.406374	16.9251681	Europe/Warsaw	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-poznan-poland
 Poland	Wroclaw	51.1078852	17.0385376	Europe/Warsaw	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-wroclaw-poland
 Poland	Zielona Góra	51.9356214	15.5061862	Europe/Warsaw	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-zielona-g-ra-poland
+Russia	Tyumen	57.1612975	65.5250172	Asia/Yekaterinburg	5.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-tyumen-russia
+South Africa	Durban	-29.85868039999999	31.0218404	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-durban-south-africa
 Switzerland	Bern	46.9479739	7.4474468	Europe/Zurich	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-bern-switzerland
 Switzerland	St. Gallen	47.4244818	9.3767173	Europe/Zurich	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-st-gallen-switzerland
 Switzerland	Zurich	47.3768866	8.541694	Europe/Zurich	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-zurich-switzerland
