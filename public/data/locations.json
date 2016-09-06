@@ -98,6 +98,20 @@
         "city": "Weinsberg"
     },
     {
+        "timeZone": "America/Guayaquil",
+        "offset": -5.0,
+        "country": "Ecuador",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-5"
+        ],
+        "name": "Quito, Ecuador",
+        "coords": [
+            -0.1806532,
+            -78.4678382
+        ],
+        "city": "Quito"
+    },
+    {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
         "country": "Espa\u00f1a",
@@ -340,7 +354,8 @@
         "offset": 13.0,
         "country": "New Zealand",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-auckland-new-zealand-1"
+            "http://coderetreat.org/events/global-day-of-coderetreat-auckland-new-zealand-1",
+            "http://coderetreat.org/events/global-day-of-coderetreat-auckland-movio"
         ],
         "name": "Auckland, New Zealand",
         "coords": [
@@ -418,6 +433,20 @@
             31.0218404
         ],
         "city": "Durban"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-barcelona"
+        ],
+        "name": "Barcelona, Spain",
+        "coords": [
+            41.3850639,
+            2.1734035
+        ],
+        "city": "Barcelona"
     },
     {
         "timeZone": "Europe/Zurich",
