@@ -74,6 +74,20 @@
         "offset": 2.0,
         "country": "Czech Republic",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-jihlava-czech-republic"
+        ],
+        "name": "Jihlava, Czech Republic",
+        "coords": [
+            49.3983782,
+            15.5870415
+        ],
+        "city": "Jihlava"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 2.0,
+        "country": "Czech Republic",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-ostrava-czech-republic"
         ],
         "name": "Ostrava, Czech Republic",
@@ -82,6 +96,20 @@
             18.2625243
         ],
         "city": "Ostrava"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 2.0,
+        "country": "Czech Republic",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-prague-czech-republic"
+        ],
+        "name": "Prague, Czech Republic",
+        "coords": [
+            50.0755381,
+            14.4378005
+        ],
+        "city": "Prague"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -114,11 +142,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "Espa\u00f1a",
+        "country": "España",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a"
         ],
-        "name": "Madrid, Espa\u00f1a",
+        "name": "Madrid, España",
         "coords": [
             40.4167754,
             -3.7037902
@@ -244,12 +272,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-osnabr-ck-germany"
         ],
-        "name": "Osnabr\u00fcck, Germany",
+        "name": "Osnabrück, Germany",
         "coords": [
             52.2799112,
             8.0471788
         ],
-        "city": "Osnabr\u00fcck"
+        "city": "Osnabrück"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -399,12 +427,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-zielona-g-ra-poland"
         ],
-        "name": "Zielona G\u00f3ra, Poland",
+        "name": "Zielona Góra, Poland",
         "coords": [
             51.9356214,
             15.5061862
         ],
-        "city": "Zielona G\u00f3ra"
+        "city": "Zielona Góra"
     },
     {
         "timeZone": "Asia/Yekaterinburg",
@@ -447,6 +475,20 @@
             2.1734035
         ],
         "city": "Barcelona"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-valencia-spain"
+        ],
+        "name": "Valencia, Spain",
+        "coords": [
+            39.4699075,
+            -0.3762881
+        ],
+        "city": "Valencia"
     },
     {
         "timeZone": "Europe/Zurich",
