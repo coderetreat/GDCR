@@ -42,6 +42,20 @@
         "city": "Minsk"
     },
     {
+        "timeZone": "America/Sao_Paulo",
+        "offset": -2.0,
+        "country": "Brazil",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-curitiba-brazil"
+        ],
+        "name": "Curitiba, Brazil",
+        "coords": [
+            -25.4289541,
+            -49.267137
+        ],
+        "city": "Curitiba"
+    },
+    {
         "timeZone": "America/Edmonton",
         "offset": -6.0,
         "country": "CANADA",
@@ -186,7 +200,22 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2016-1"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-bielefeld-germany"
+        ],
+        "name": "Bielefeld, Germany",
+        "coords": [
+            52.0302285,
+            8.532470800000002
+        ],
+        "city": "Bielefeld"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-1",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-erlangen-germany"
         ],
         "name": "Erlangen, Germany",
         "coords": [
@@ -236,6 +265,20 @@
             8.4036527
         ],
         "city": "Karlsruhe"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-l-beck-germany"
+        ],
+        "name": "Lübeck, Germany",
+        "coords": [
+            53.8654673,
+            10.6865593
+        ],
+        "city": "Lübeck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -435,6 +478,20 @@
         "city": "Zielona Góra"
     },
     {
+        "timeZone": "Europe/Bucharest",
+        "offset": 3.0,
+        "country": "Romania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-tirgu-mures"
+        ],
+        "name": "Tirgu-Mures, Romania",
+        "coords": [
+            46.5385862,
+            24.5514392
+        ],
+        "city": "Tirgu-Mures"
+    },
+    {
         "timeZone": "Asia/Yekaterinburg",
         "offset": 5.0,
         "country": "Russia",
@@ -602,20 +659,6 @@
             -93.6091064
         ],
         "city": "Des Moines, IA"
-    },
-    {
-        "timeZone": "America/Los_Angeles",
-        "offset": -7.0,
-        "country": "USA",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-code-retreat-2016-medford-or-usa"
-        ],
-        "name": "Medford, OR, USA",
-        "coords": [
-            42.3265152,
-            -122.8755949
-        ],
-        "city": "Medford, OR"
     },
     {
         "timeZone": "America/New_York",
