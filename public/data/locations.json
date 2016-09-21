@@ -84,6 +84,20 @@
         "city": "Brno"
     },
     {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hangzhou-china"
+        ],
+        "name": "Hangzhou, China",
+        "coords": [
+            30.274085,
+            120.15507
+        ],
+        "city": "Hangzhou"
+    },
+    {
         "timeZone": "Europe/Prague",
         "offset": 2.0,
         "country": "Czech Republic",
@@ -285,6 +299,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-muenster-germany"
+        ],
+        "name": "Muenster, Germany",
+        "coords": [
+            51.9606649,
+            7.6261347
+        ],
+        "city": "Muenster"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2015-munich-germany-1"
         ],
         "name": "Munich, Germany",
@@ -436,6 +464,20 @@
         "city": "Auckland"
     },
     {
+        "timeZone": "Asia/Manila",
+        "offset": 8.0,
+        "country": "PHILIPPINES",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-quezon-city-philippines"
+        ],
+        "name": "QUEZON CITY, PHILIPPINES",
+        "coords": [
+            14.6760413,
+            121.0437003
+        ],
+        "city": "QUEZON CITY"
+    },
+    {
         "timeZone": "Europe/Warsaw",
         "offset": 2.0,
         "country": "Poland",
@@ -518,6 +560,20 @@
             31.0218404
         ],
         "city": "Durban"
+    },
+    {
+        "timeZone": "Africa/Johannesburg",
+        "offset": 2.0,
+        "country": "South Africa",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-johannesburg-south-africa"
+        ],
+        "name": "Johannesburg, South Africa",
+        "coords": [
+            -26.2041028,
+            28.0473051
+        ],
+        "city": "Johannesburg"
     },
     {
         "timeZone": "Europe/Madrid",
@@ -647,6 +703,20 @@
         "city": "Atlanta, GA"
     },
     {
+        "timeZone": "America/New_York",
+        "offset": -4.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-columbus-oh-usa"
+        ],
+        "name": "Columbus, OH, USA",
+        "coords": [
+            39.9611755,
+            -82.99879419999999
+        ],
+        "city": "Columbus, OH"
+    },
+    {
         "timeZone": "America/Chicago",
         "offset": -5.0,
         "country": "USA",
@@ -687,5 +757,19 @@
             -122.6764816
         ],
         "city": "Portland, OR"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -4.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/code-retreat-rochester-ny-2"
+        ],
+        "name": "Rochester, NY, USA",
+        "coords": [
+            43.16103,
+            -77.6109219
+        ],
+        "city": "Rochester, NY"
     }
 ]
