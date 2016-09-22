@@ -228,6 +228,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-dresden-germany"
+        ],
+        "name": "Dresden, Germany",
+        "coords": [
+            51.0504088,
+            13.7372621
+        ],
+        "city": "Dresden"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-1",
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-erlangen-germany"
         ],
