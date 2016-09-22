@@ -463,6 +463,20 @@
         "city": "Riga"
     },
     {
+        "timeZone": "Europe/Vilnius",
+        "offset": 3.0,
+        "country": "Lithuania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-kaunas"
+        ],
+        "name": "Kaunas, Lithuania",
+        "coords": [
+            54.8985207,
+            23.9035965
+        ],
+        "city": "Kaunas"
+    },
+    {
         "timeZone": "Pacific/Auckland",
         "offset": 13.0,
         "country": "New Zealand",
@@ -532,6 +546,20 @@
             15.5061862
         ],
         "city": "Zielona Góra"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 3.0,
+        "country": "Romania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-cluj-napoca-romania"
+        ],
+        "name": "Cluj-Napoca, Romania",
+        "coords": [
+            46.7712101,
+            23.6236353
+        ],
+        "city": "Cluj-Napoca"
     },
     {
         "timeZone": "Europe/Bucharest",
