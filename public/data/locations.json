@@ -28,6 +28,20 @@
         "city": "Melbourne"
     },
     {
+        "timeZone": "Europe/Vienna",
+        "offset": 2.0,
+        "country": "Austria",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-vienna-austria"
+        ],
+        "name": "Vienna, Austria",
+        "coords": [
+            48.2081743,
+            16.3738189
+        ],
+        "city": "Vienna"
+    },
+    {
         "timeZone": "Europe/Minsk",
         "offset": 3.0,
         "country": "Belarus",
@@ -170,16 +184,30 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "España",
+        "country": "Espa\u00f1a",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a"
         ],
-        "name": "Madrid, España",
+        "name": "Madrid, Espa\u00f1a",
         "coords": [
             40.4167754,
             -3.7037902
         ],
         "city": "Madrid"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "Espa\u00f1a",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-ourense-espa-a"
+        ],
+        "name": "Ourense, Espa\u00f1a",
+        "coords": [
+            42.33578929999999,
+            -7.863880999999998
+        ],
+        "city": "Ourense"
     },
     {
         "timeZone": "Europe/Paris",
@@ -301,12 +329,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-l-beck-germany"
         ],
-        "name": "Lübeck, Germany",
+        "name": "L\u00fcbeck, Germany",
         "coords": [
             53.8654673,
             10.6865593
         ],
-        "city": "Lübeck"
+        "city": "L\u00fcbeck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -357,12 +385,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-osnabr-ck-germany"
         ],
-        "name": "Osnabrück, Germany",
+        "name": "Osnabr\u00fcck, Germany",
         "coords": [
             52.2799112,
             8.0471788
         ],
-        "city": "Osnabrück"
+        "city": "Osnabr\u00fcck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -391,6 +419,20 @@
             22.9444191
         ],
         "city": "Thessaloniki"
+    },
+    {
+        "timeZone": "Pacific/Honolulu",
+        "offset": -10.0,
+        "country": "HI",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-honolulu-hi"
+        ],
+        "name": "Honolulu, HI",
+        "coords": [
+            21.3069444,
+            -157.8583333
+        ],
+        "city": "Honolulu"
     },
     {
         "timeZone": "Europe/Budapest",
@@ -540,12 +582,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-zielona-g-ra-poland"
         ],
-        "name": "Zielona Góra, Poland",
+        "name": "Zielona G\u00f3ra, Poland",
         "coords": [
             51.9356214,
             15.5061862
         ],
-        "city": "Zielona Góra"
+        "city": "Zielona G\u00f3ra"
     },
     {
         "timeZone": "Europe/Bucharest",
