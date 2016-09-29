@@ -547,6 +547,20 @@
         "city": "Pune"
     },
     {
+        "timeZone": "Europe/Rome",
+        "offset": 2.0,
+        "country": "Italy",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-milan"
+        ],
+        "name": "Milan, Italy",
+        "coords": [
+            45.4654219,
+            9.1859243
+        ],
+        "city": "Milan"
+    },
+    {
         "timeZone": "Europe/Riga",
         "offset": 3.0,
         "country": "Latvia",
@@ -939,6 +953,20 @@
             -74.0059413
         ],
         "city": "NEW YORK CITY"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -7.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-5"
+        ],
+        "name": "Portland, USA",
+        "coords": [
+            45.5230622,
+            -122.6764816
+        ],
+        "city": "Portland"
     },
     {
         "timeZone": "America/Los_Angeles",
