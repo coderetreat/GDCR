@@ -98,6 +98,48 @@
         "city": "Brno"
     },
     {
+        "timeZone": "America/Santiago",
+        "offset": -3.0,
+        "country": "Chile",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-santiago-chile"
+        ],
+        "name": "Santiago, Chile",
+        "coords": [
+            -33.4378305,
+            -70.6504492
+        ],
+        "city": "Santiago"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-beijing-china"
+        ],
+        "name": "Beijing, China",
+        "coords": [
+            39.904211,
+            116.407395
+        ],
+        "city": "Beijing"
+    },
+    {
+        "timeZone": "Asia/Shanghai",
+        "offset": 8.0,
+        "country": "China",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-chengdu-china"
+        ],
+        "name": "Chengdu, China",
+        "coords": [
+            30.572816,
+            104.066801
+        ],
+        "city": "Chengdu"
+    },
+    {
         "timeZone": "Asia/Shanghai",
         "offset": 8.0,
         "country": "China",
@@ -184,11 +226,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "Espa\u00f1a",
+        "country": "España",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a"
         ],
-        "name": "Madrid, Espa\u00f1a",
+        "name": "Madrid, España",
         "coords": [
             40.4167754,
             -3.7037902
@@ -198,11 +240,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "Espa\u00f1a",
+        "country": "España",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-ourense-espa-a"
         ],
-        "name": "Ourense, Espa\u00f1a",
+        "name": "Ourense, España",
         "coords": [
             42.33578929999999,
             -7.863880999999998
@@ -222,6 +264,20 @@
             -0.57918
         ],
         "city": "Bordeaux"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 2.0,
+        "country": "FRANCE",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-toulouse-france"
+        ],
+        "name": "TOULOUSE, FRANCE",
+        "coords": [
+            43.604652,
+            1.444209
+        ],
+        "city": "TOULOUSE"
     },
     {
         "timeZone": "Europe/Paris",
@@ -329,12 +385,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-l-beck-germany"
         ],
-        "name": "L\u00fcbeck, Germany",
+        "name": "Lübeck, Germany",
         "coords": [
             53.8654673,
             10.6865593
         ],
-        "city": "L\u00fcbeck"
+        "city": "Lübeck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -385,12 +441,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-osnabr-ck-germany"
         ],
-        "name": "Osnabr\u00fcck, Germany",
+        "name": "Osnabrück, Germany",
         "coords": [
             52.2799112,
             8.0471788
         ],
-        "city": "Osnabr\u00fcck"
+        "city": "Osnabrück"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -519,6 +575,20 @@
         "city": "Kaunas"
     },
     {
+        "timeZone": "Europe/Skopje",
+        "offset": 2.0,
+        "country": "Macedonia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-skopje-macedonia"
+        ],
+        "name": "Skopje, Macedonia",
+        "coords": [
+            41.9973462,
+            21.4279956
+        ],
+        "city": "Skopje"
+    },
+    {
         "timeZone": "Pacific/Auckland",
         "offset": 13.0,
         "country": "New Zealand",
@@ -546,6 +616,34 @@
             121.0437003
         ],
         "city": "QUEZON CITY"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 2.0,
+        "country": "POLAND",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-pozna-poland"
+        ],
+        "name": "POZNAŃ, POLAND",
+        "coords": [
+            52.406374,
+            16.9251681
+        ],
+        "city": "POZNAŃ"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 2.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-katowice-poland"
+        ],
+        "name": "Katowice, Poland",
+        "coords": [
+            50.26489189999999,
+            19.0237815
+        ],
+        "city": "Katowice"
     },
     {
         "timeZone": "Europe/Warsaw",
@@ -582,12 +680,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-zielona-g-ra-poland"
         ],
-        "name": "Zielona G\u00f3ra, Poland",
+        "name": "Zielona Góra, Poland",
         "coords": [
             51.9356214,
             15.5061862
         ],
-        "city": "Zielona G\u00f3ra"
+        "city": "Zielona Góra"
     },
     {
         "timeZone": "Europe/Bucharest",
@@ -630,6 +728,20 @@
             65.5250172
         ],
         "city": "Tyumen"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "SPAIN",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-logro-o-spain"
+        ],
+        "name": "LOGROÑO, SPAIN",
+        "coords": [
+            42.4627195,
+            -2.4449852
+        ],
+        "city": "LOGROÑO"
     },
     {
         "timeZone": "Africa/Johannesburg",
@@ -855,5 +967,19 @@
             -77.6109219
         ],
         "city": "Rochester, NY"
+    },
+    {
+        "timeZone": "America/New_York",
+        "offset": -4.0,
+        "country": "VA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2014-5"
+        ],
+        "name": "Arlington, VA",
+        "coords": [
+            38.8799697,
+            -77.1067698
+        ],
+        "city": "Arlington"
     }
 ]
