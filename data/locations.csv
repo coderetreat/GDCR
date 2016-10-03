@@ -5,6 +5,7 @@ Belarus	Minsk	53.90453979999999	27.5615244	Europe/Minsk	3.0	http://coderetreat.o
 Brazil	Curitiba	-25.4289541	-49.267137	America/Sao_Paulo	-2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-curitiba-brazil
 CANADA	CALGARY	51.0486151	-114.0708459	America/Edmonton	-6.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-calgary-canada
 CZ	Brno	49.1950602	16.6068371	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-coderetreat-brno-2016
+Canada	Toronto	43.653226	-79.3831843	America/Toronto	-4.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-toronto-canada
 Chile	Santiago	-33.4378305	-70.6504492	America/Santiago	-3.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-santiago-chile
 China	Beijing	39.904211	116.407395	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-beijing-china
 China	Chengdu	30.572816	104.066801	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-chengdu-china
@@ -39,6 +40,7 @@ India	Bangalore	12.9715987	77.5945627	Asia/Calcutta	5.5	http://coderetreat.org/e
 India	Hyderabad	17.385044	78.486671	Asia/Calcutta	5.5	http://coderetreat.org/events/global-day-of-coderetreat-2016-hyderabad-india
 India	Pune	18.5204303	73.8567437	Asia/Calcutta	5.5	http://coderetreat.org/events/global-day-of-coderetreat-pune-2016
 Italy	Milan	45.4654219	9.1859243	Europe/Rome	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-milan
+Japan	Kyoto	35.0116363	135.7680294	Asia/Tokyo	9.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-kyoto-japan
 Latvia	Riga	56.9496487	24.1051864	Europe/Riga	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2016
 Lithuania	Kaunas	54.8985207	23.9035965	Europe/Vilnius	3.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-kaunas
 Macedonia	Skopje	41.9973462	21.4279956	Europe/Skopje	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-skopje-macedonia
@@ -54,6 +56,7 @@ Romania	Cluj-Napoca	46.7712101	23.6236353	Europe/Bucharest	3.0	http://coderetrea
 Romania	Tirgu-Mures	46.5385862	24.5514392	Europe/Bucharest	3.0	http://coderetreat.org/events/global-day-of-coderetreat-tirgu-mures
 Russia	Tyumen	57.1612975	65.5250172	Asia/Yekaterinburg	5.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-tyumen-russia
 SPAIN	LOGROÑO	42.4627195	-2.4449852	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-logro-o-spain
+South Africa	Cape Town	-33.9248685	18.4240553	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-cape-town-south-africa
 South Africa	Durban	-29.85868039999999	31.0218404	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-durban-south-africa
 South Africa	Johannesburg	-26.2041028	28.0473051	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-code-retreat-johannesburg-south-africa
 Spain	Barcelona	41.3850639	2.1734035	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-barcelona

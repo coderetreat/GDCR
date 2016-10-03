@@ -98,6 +98,20 @@
         "city": "Brno"
     },
     {
+        "timeZone": "America/Toronto",
+        "offset": -4.0,
+        "country": "Canada",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-toronto-canada"
+        ],
+        "name": "Toronto, Canada",
+        "coords": [
+            43.653226,
+            -79.3831843
+        ],
+        "city": "Toronto"
+    },
+    {
         "timeZone": "America/Santiago",
         "offset": -3.0,
         "country": "Chile",
@@ -561,6 +575,20 @@
         "city": "Milan"
     },
     {
+        "timeZone": "Asia/Tokyo",
+        "offset": 9.0,
+        "country": "Japan",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-kyoto-japan"
+        ],
+        "name": "Kyoto, Japan",
+        "coords": [
+            35.0116363,
+            135.7680294
+        ],
+        "city": "Kyoto"
+    },
+    {
         "timeZone": "Europe/Riga",
         "offset": 3.0,
         "country": "Latvia",
@@ -756,6 +784,20 @@
             -2.4449852
         ],
         "city": "LOGROÑO"
+    },
+    {
+        "timeZone": "Africa/Johannesburg",
+        "offset": 2.0,
+        "country": "South Africa",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-cape-town-south-africa"
+        ],
+        "name": "Cape Town, South Africa",
+        "coords": [
+            -33.9248685,
+            18.4240553
+        ],
+        "city": "Cape Town"
     },
     {
         "timeZone": "Africa/Johannesburg",
