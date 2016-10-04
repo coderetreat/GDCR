@@ -955,6 +955,20 @@
         "city": "Atlanta, GA"
     },
     {
+        "timeZone": "America/Chicago",
+        "offset": -5.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-chicago-il-usa"
+        ],
+        "name": "Chicago, IL, USA",
+        "coords": [
+            41.8781136,
+            -87.6297982
+        ],
+        "city": "Chicago, IL"
+    },
+    {
         "timeZone": "America/New_York",
         "offset": -4.0,
         "country": "USA",
