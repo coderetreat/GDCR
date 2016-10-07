@@ -84,6 +84,20 @@
         "city": "CALGARY"
     },
     {
+        "timeZone": "America/Denver",
+        "offset": -6.0,
+        "country": "CO",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-denver-co"
+        ],
+        "name": "Denver, CO",
+        "coords": [
+            39.7392358,
+            -104.990251
+        ],
+        "city": "Denver"
+    },
+    {
         "timeZone": "Europe/Prague",
         "offset": 2.0,
         "country": "CZ",
@@ -292,6 +306,20 @@
             1.444209
         ],
         "city": "TOULOUSE"
+    },
+    {
+        "timeZone": "Europe/Helsinki",
+        "offset": 3.0,
+        "country": "Finland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-turku-finland"
+        ],
+        "name": "Turku, Finland",
+        "coords": [
+            60.4518126,
+            22.2666303
+        ],
+        "city": "Turku"
     },
     {
         "timeZone": "Europe/Paris",
@@ -537,6 +565,20 @@
         "offset": 5.5,
         "country": "India",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-bangalore"
+        ],
+        "name": "Global Day of Code Retreat 2016 – Bangalore, India",
+        "coords": [
+            12.9715987,
+            77.5945627
+        ],
+        "city": "Global Day of Code Retreat 2016 – Bangalore"
+    },
+    {
+        "timeZone": "Asia/Calcutta",
+        "offset": 5.5,
+        "country": "India",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-hyderabad-india"
         ],
         "name": "Hyderabad, India",
@@ -629,6 +671,20 @@
             21.4279956
         ],
         "city": "Skopje"
+    },
+    {
+        "timeZone": "America/Mexico_City",
+        "offset": -5.0,
+        "country": "Mexico",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-oaxaca-mexico"
+        ],
+        "name": "Oaxaca, Mexico",
+        "coords": [
+            17.0594169,
+            -96.7216219
+        ],
+        "city": "Oaxaca"
     },
     {
         "timeZone": "Pacific/Auckland",
@@ -756,6 +812,20 @@
             24.5514392
         ],
         "city": "Tirgu-Mures"
+    },
+    {
+        "timeZone": "Europe/Moscow",
+        "offset": 3.0,
+        "country": "Russia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-tver-russia"
+        ],
+        "name": "Tver, Russia",
+        "coords": [
+            56.85872140000001,
+            35.9175965
+        ],
+        "city": "Tver"
     },
     {
         "timeZone": "Asia/Yekaterinburg",
@@ -925,6 +995,20 @@
             -0.1277583
         ],
         "city": "London"
+    },
+    {
+        "timeZone": "Europe/London",
+        "offset": 1.0,
+        "country": "UK",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-newbury-uk"
+        ],
+        "name": "Newbury, UK",
+        "coords": [
+            51.401409,
+            -1.3231139
+        ],
+        "city": "Newbury"
     },
     {
         "timeZone": "America/New_York",
