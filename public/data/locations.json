@@ -959,6 +959,20 @@
         "offset": 3.0,
         "country": "Romania",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-bucharest-romania"
+        ],
+        "name": "Bucharest, Romania",
+        "coords": [
+            44.4267674,
+            26.1025384
+        ],
+        "city": "Bucharest"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 3.0,
+        "country": "Romania",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-cluj-napoca-romania"
         ],
         "name": "Cluj-Napoca, Romania",
