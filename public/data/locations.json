@@ -56,6 +56,20 @@
         "city": "Minsk"
     },
     {
+        "timeZone": "Europe/Brussels",
+        "offset": 2.0,
+        "country": "Belgium",
+        "urls": [
+            "http://coderetreat.org/events/gdcr16-in-belgium"
+        ],
+        "name": "Leuven, Belgium",
+        "coords": [
+            50.8798438,
+            4.7005176
+        ],
+        "city": "Leuven"
+    },
+    {
         "timeZone": "America/Sao_Paulo",
         "offset": -2.0,
         "country": "Brazil",
@@ -112,6 +126,20 @@
         "city": "Brno"
     },
     {
+        "timeZone": "America/Halifax",
+        "offset": -3.0,
+        "country": "Canada",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-charlottetown-pei"
+        ],
+        "name": "Charlottetown, Canada",
+        "coords": [
+            46.23824,
+            -63.13107040000001
+        ],
+        "city": "Charlottetown"
+    },
+    {
         "timeZone": "America/Toronto",
         "offset": -4.0,
         "country": "Canada",
@@ -124,6 +152,34 @@
             -79.3831843
         ],
         "city": "Toronto"
+    },
+    {
+        "timeZone": "America/Winnipeg",
+        "offset": -5.0,
+        "country": "Canada",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-winnipeg"
+        ],
+        "name": "Winnipeg, Canada",
+        "coords": [
+            49.8997541,
+            -97.1374937
+        ],
+        "city": "Winnipeg"
+    },
+    {
+        "timeZone": "Atlantic/Canary",
+        "offset": 1.0,
+        "country": "Canary Islands",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-tenerife-canary-islands"
+        ],
+        "name": "Tenerife, Canary Islands",
+        "coords": [
+            28.4636296,
+            -16.2518467
+        ],
+        "city": "Tenerife"
     },
     {
         "timeZone": "America/Santiago",
@@ -254,11 +310,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "España",
+        "country": "Espa\u00f1a",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a"
         ],
-        "name": "Madrid, España",
+        "name": "Madrid, Espa\u00f1a",
         "coords": [
             40.4167754,
             -3.7037902
@@ -268,11 +324,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "España",
+        "country": "Espa\u00f1a",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-ourense-espa-a"
         ],
-        "name": "Ourense, España",
+        "name": "Ourense, Espa\u00f1a",
         "coords": [
             42.33578929999999,
             -7.863880999999998
@@ -320,6 +376,48 @@
             22.2666303
         ],
         "city": "Turku"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 2.0,
+        "country": "France",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-lille-france"
+        ],
+        "name": "Lille, France",
+        "coords": [
+            50.62925,
+            3.057256
+        ],
+        "city": "Lille"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 2.0,
+        "country": "France",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-nantes-france"
+        ],
+        "name": "Nantes, France",
+        "coords": [
+            47.218371,
+            -1.553621
+        ],
+        "city": "Nantes"
+    },
+    {
+        "timeZone": "Europe/Paris",
+        "offset": 2.0,
+        "country": "France",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-paris-france"
+        ],
+        "name": "Paris, France",
+        "coords": [
+            48.856614,
+            2.3522219
+        ],
+        "city": "Paris"
     },
     {
         "timeZone": "Europe/Paris",
@@ -383,6 +481,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-in-essen-germany"
+        ],
+        "name": "Essen, Germany",
+        "coords": [
+            51.4556432,
+            7.0115552
+        ],
+        "city": "Essen"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-code-retreat-2016"
         ],
         "name": "Frankfurt, Germany",
@@ -427,12 +539,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-l-beck-germany"
         ],
-        "name": "Lübeck, Germany",
+        "name": "L\u00fcbeck, Germany",
         "coords": [
             53.8654673,
             10.6865593
         ],
-        "city": "Lübeck"
+        "city": "L\u00fcbeck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -483,12 +595,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-osnabr-ck-germany"
         ],
-        "name": "Osnabrück, Germany",
+        "name": "Osnabr\u00fcck, Germany",
         "coords": [
             52.2799112,
             8.0471788
         ],
-        "city": "Osnabrück"
+        "city": "Osnabr\u00fcck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -567,19 +679,20 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-code-retreat-2016-bangalore"
         ],
-        "name": "Global Day of Code Retreat 2016 – Bangalore, India",
+        "name": "Global Day of Code Retreat 2016 \u2013 Bangalore, India",
         "coords": [
             12.9715987,
             77.5945627
         ],
-        "city": "Global Day of Code Retreat 2016 – Bangalore"
+        "city": "Global Day of Code Retreat 2016 \u2013 Bangalore"
     },
     {
         "timeZone": "Asia/Calcutta",
         "offset": 5.5,
         "country": "India",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hyderabad-india"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hyderabad-india",
+            "http://coderetreat.org/events/global-day-of-coderetreat-4"
         ],
         "name": "Hyderabad, India",
         "coords": [
@@ -677,6 +790,20 @@
         "offset": -5.0,
         "country": "Mexico",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-epam-guadalajara"
+        ],
+        "name": "Guadalajara, Mexico",
+        "coords": [
+            20.6596988,
+            -103.3496092
+        ],
+        "city": "Guadalajara"
+    },
+    {
+        "timeZone": "America/Mexico_City",
+        "offset": -5.0,
+        "country": "Mexico",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-oaxaca-mexico"
         ],
         "name": "Oaxaca, Mexico",
@@ -722,12 +849,40 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-pozna-poland"
         ],
-        "name": "POZNAŃ, POLAND",
+        "name": "POZNA\u0143, POLAND",
         "coords": [
             52.406374,
             16.9251681
         ],
-        "city": "POZNAŃ"
+        "city": "POZNA\u0143"
+    },
+    {
+        "timeZone": "America/Lima",
+        "offset": -5.0,
+        "country": "Peru",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-lima-peru"
+        ],
+        "name": "Lima, Peru",
+        "coords": [
+            -12.046374,
+            -77.0427934
+        ],
+        "city": "Lima"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 2.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-gdansk-poland"
+        ],
+        "name": "Gdansk, Poland",
+        "coords": [
+            54.35202520000001,
+            18.6466384
+        ],
+        "city": "Gdansk"
     },
     {
         "timeZone": "Europe/Warsaw",
@@ -762,6 +917,20 @@
         "offset": 2.0,
         "country": "Poland",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-warsaw-poland"
+        ],
+        "name": "Warsaw, Poland",
+        "coords": [
+            52.2296756,
+            21.0122287
+        ],
+        "city": "Warsaw"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 2.0,
+        "country": "Poland",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-wroclaw-poland"
         ],
         "name": "Wroclaw, Poland",
@@ -778,12 +947,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-zielona-g-ra-poland"
         ],
-        "name": "Zielona Góra, Poland",
+        "name": "Zielona G\u00f3ra, Poland",
         "coords": [
             51.9356214,
             15.5061862
         ],
-        "city": "Zielona Góra"
+        "city": "Zielona G\u00f3ra"
     },
     {
         "timeZone": "Europe/Bucharest",
@@ -848,12 +1017,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-logro-o-spain"
         ],
-        "name": "LOGROÑO, SPAIN",
+        "name": "LOGRO\u00d1O, SPAIN",
         "coords": [
             42.4627195,
             -2.4449852
         ],
-        "city": "LOGROÑO"
+        "city": "LOGRO\u00d1O"
     },
     {
         "timeZone": "Africa/Johannesburg",
@@ -910,6 +1079,20 @@
             2.1734035
         ],
         "city": "Barcelona"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-mutilva-navarra-spain"
+        ],
+        "name": "Pamplona, Navarra, Spain",
+        "coords": [
+            42.812526,
+            -1.6457745
+        ],
+        "city": "Pamplona, Navarra"
     },
     {
         "timeZone": "Europe/Madrid",
@@ -982,6 +1165,20 @@
         "city": "Istanbul"
     },
     {
+        "timeZone": "Europe/Istanbul",
+        "offset": 3.0,
+        "country": "Turkey",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-stanbul"
+        ],
+        "name": "\u0130stanbul, Turkey",
+        "coords": [
+            41.0082376,
+            28.9783589
+        ],
+        "city": "\u0130stanbul"
+    },
+    {
         "timeZone": "Europe/London",
         "offset": 1.0,
         "country": "UK",
@@ -1009,6 +1206,20 @@
             -1.3231139
         ],
         "city": "Newbury"
+    },
+    {
+        "timeZone": "Europe/London",
+        "offset": 1.0,
+        "country": "UK",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-learn-practice-master-the"
+        ],
+        "name": "Oxford, UK",
+        "coords": [
+            51.7520209,
+            -1.2577263
+        ],
+        "city": "Oxford"
     },
     {
         "timeZone": "America/New_York",
@@ -1135,6 +1346,20 @@
             -77.6109219
         ],
         "city": "Rochester, NY"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -7.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-hosted-by-pluralsight-san-diego"
+        ],
+        "name": "San Diego, USA",
+        "coords": [
+            32.715738,
+            -117.1610838
+        ],
+        "city": "San Diego"
     },
     {
         "timeZone": "America/New_York",
