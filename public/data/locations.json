@@ -256,6 +256,20 @@
         "offset": 2.0,
         "country": "Czech Republic",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-olomouc-czech-republic"
+        ],
+        "name": "Olomouc, Czech Republic",
+        "coords": [
+            49.593778,
+            17.2508787
+        ],
+        "city": "Olomouc"
+    },
+    {
+        "timeZone": "Europe/Prague",
+        "offset": 2.0,
+        "country": "Czech Republic",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-ostrava-czech-republic"
         ],
         "name": "Ostrava, Czech Republic",
@@ -310,11 +324,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "Espa\u00f1a",
+        "country": "España",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-madrid-espa-a"
         ],
-        "name": "Madrid, Espa\u00f1a",
+        "name": "Madrid, España",
         "coords": [
             40.4167754,
             -3.7037902
@@ -324,11 +338,11 @@
     {
         "timeZone": "Europe/Madrid",
         "offset": 2.0,
-        "country": "Espa\u00f1a",
+        "country": "España",
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-ourense-espa-a"
         ],
-        "name": "Ourense, Espa\u00f1a",
+        "name": "Ourense, España",
         "coords": [
             42.33578929999999,
             -7.863880999999998
@@ -539,12 +553,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-l-beck-germany"
         ],
-        "name": "L\u00fcbeck, Germany",
+        "name": "Lübeck, Germany",
         "coords": [
             53.8654673,
             10.6865593
         ],
-        "city": "L\u00fcbeck"
+        "city": "Lübeck"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -595,12 +609,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-osnabr-ck-germany"
         ],
-        "name": "Osnabr\u00fcck, Germany",
+        "name": "Osnabrück, Germany",
         "coords": [
             52.2799112,
             8.0471788
         ],
-        "city": "Osnabr\u00fcck"
+        "city": "Osnabrück"
     },
     {
         "timeZone": "Europe/Berlin",
@@ -679,12 +693,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-code-retreat-2016-bangalore"
         ],
-        "name": "Global Day of Code Retreat 2016 \u2013 Bangalore, India",
+        "name": "Global Day of Code Retreat 2016 – Bangalore, India",
         "coords": [
             12.9715987,
             77.5945627
         ],
-        "city": "Global Day of Code Retreat 2016 \u2013 Bangalore"
+        "city": "Global Day of Code Retreat 2016 – Bangalore"
     },
     {
         "timeZone": "Asia/Calcutta",
@@ -849,12 +863,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-pozna-poland"
         ],
-        "name": "POZNA\u0143, POLAND",
+        "name": "POZNAŃ, POLAND",
         "coords": [
             52.406374,
             16.9251681
         ],
-        "city": "POZNA\u0143"
+        "city": "POZNAŃ"
     },
     {
         "timeZone": "America/Lima",
@@ -947,12 +961,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-zielona-g-ra-poland"
         ],
-        "name": "Zielona G\u00f3ra, Poland",
+        "name": "Zielona Góra, Poland",
         "coords": [
             51.9356214,
             15.5061862
         ],
-        "city": "Zielona G\u00f3ra"
+        "city": "Zielona Góra"
     },
     {
         "timeZone": "Europe/Bucharest",
@@ -1031,12 +1045,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-logro-o-spain"
         ],
-        "name": "LOGRO\u00d1O, SPAIN",
+        "name": "LOGROÑO, SPAIN",
         "coords": [
             42.4627195,
             -2.4449852
         ],
-        "city": "LOGRO\u00d1O"
+        "city": "LOGROÑO"
     },
     {
         "timeZone": "Africa/Johannesburg",
@@ -1093,6 +1107,20 @@
             2.1734035
         ],
         "city": "Barcelona"
+    },
+    {
+        "timeZone": "Europe/Madrid",
+        "offset": 2.0,
+        "country": "Spain",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-ciudad-real-spain"
+        ],
+        "name": "Ciudad Real, Spain",
+        "coords": [
+            38.9848295,
+            -3.927377799999999
+        ],
+        "city": "Ciudad Real"
     },
     {
         "timeZone": "Europe/Madrid",
@@ -1185,12 +1213,12 @@
         "urls": [
             "http://coderetreat.org/events/global-day-of-code-retreat-stanbul"
         ],
-        "name": "\u0130stanbul, Turkey",
+        "name": "İstanbul, Turkey",
         "coords": [
             41.0082376,
             28.9783589
         ],
-        "city": "\u0130stanbul"
+        "city": "İstanbul"
     },
     {
         "timeZone": "Europe/London",
@@ -1248,6 +1276,20 @@
             -74.0059413
         ],
         "city": "New York"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -7.0,
+        "country": "US",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-2016-san-francisco-us"
+        ],
+        "name": "San Francisco, US",
+        "coords": [
+            37.7749295,
+            -122.4194155
+        ],
+        "city": "San Francisco"
     },
     {
         "timeZone": "America/New_York",

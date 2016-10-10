@@ -16,6 +16,7 @@ China	Beijing	39.904211	116.407395	Asia/Shanghai	8.0	http://coderetreat.org/even
 China	Chengdu	30.572816	104.066801	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-chengdu-china
 China	Hangzhou	30.274085	120.15507	Asia/Shanghai	8.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-hangzhou-china
 Czech Republic	Jihlava	49.3983782	15.5870415	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-jihlava-czech-republic
+Czech Republic	Olomouc	49.593778	17.2508787	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-olomouc-czech-republic
 Czech Republic	Ostrava	49.8209226	18.2625243	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-ostrava-czech-republic
 Czech Republic	Prague	50.0755381	14.4378005	Europe/Prague	2.0	http://coderetreat.org/events/global-day-of-code-retreat-2016-prague-czech-republic
 DE	Weinsberg	49.1484633	9.287265699999999	Europe/Berlin	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-weinsberg-de
@@ -79,6 +80,7 @@ South Africa	Cape Town	-33.9248685	18.4240553	Africa/Johannesburg	2.0	http://cod
 South Africa	Durban	-29.85868039999999	31.0218404	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-durban-south-africa
 South Africa	Johannesburg	-26.2041028	28.0473051	Africa/Johannesburg	2.0	http://coderetreat.org/events/global-day-of-code-retreat-johannesburg-south-africa
 Spain	Barcelona	41.3850639	2.1734035	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-barcelona
+Spain	Ciudad Real	38.9848295	-3.927377799999999	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-ciudad-real-spain
 Spain	Pamplona, Navarra	42.812526	-1.6457745	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-mutilva-navarra-spain
 Spain	Valencia	39.4699075	-0.3762881	Europe/Madrid	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-valencia-spain
 Switzerland	Bern	46.9479739	7.4474468	Europe/Zurich	2.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-bern-switzerland
@@ -91,6 +93,7 @@ UK	London	51.5073509	-0.1277583	Europe/London	1.0	http://coderetreat.org/events/
 UK	Newbury	51.401409	-1.3231139	Europe/London	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-newbury-uk
 UK	Oxford	51.7520209	-1.2577263	Europe/London	1.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-learn-practice-master-the
 US	New York	40.7127837	-74.0059413	America/New_York	-4.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-new-york-us
+US	San Francisco	37.7749295	-122.4194155	America/Los_Angeles	-7.0	http://coderetreat.org/events/global-day-of-code-retreat-2016-san-francisco-us
 USA	Atlanta, GA	33.7489954	-84.3879824	America/New_York	-4.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-atlanta-ga-usa
 USA	Chicago, IL	41.8781136	-87.6297982	America/Chicago	-5.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-chicago-il-usa
 USA	Columbus, OH	39.9611755	-82.99879419999999	America/New_York	-4.0	http://coderetreat.org/events/global-day-of-coderetreat-2016-columbus-oh-usa
