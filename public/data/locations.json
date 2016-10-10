@@ -452,6 +452,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-3"
+        ],
+        "name": "Berlin, Germany",
+        "coords": [
+            52.52000659999999,
+            13.404954
+        ],
+        "city": "Berlin"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-bielefeld-germany"
         ],
         "name": "Bielefeld, Germany",
@@ -720,7 +734,22 @@
         "offset": 5.5,
         "country": "India",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-pune-2016"
+            "http://coderetreat.org/events/global-day-of-coderetreat-red-panda-mumbai"
+        ],
+        "name": "Mumbai, India",
+        "coords": [
+            19.0759837,
+            72.8776559
+        ],
+        "city": "Mumbai"
+    },
+    {
+        "timeZone": "Asia/Calcutta",
+        "offset": 5.5,
+        "country": "India",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-pune-2016",
+            "http://coderetreat.org/events/global-day-of-coderetreat-pune-red-panda"
         ],
         "name": "Pune, India",
         "coords": [
