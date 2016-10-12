@@ -466,6 +466,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-berlin-germany"
+        ],
+        "name": "Berlin II, Germany",
+        "coords": [
+            54.037033,
+            10.4460975
+        ],
+        "city": "Berlin II"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-bielefeld-germany"
         ],
         "name": "Bielefeld, Germany",
@@ -677,7 +691,8 @@
         "offset": 2.0,
         "country": "Hungary",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2016-budapest-hungary"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-budapest-hungary",
+            "http://coderetreat.org/events/epam-budapest-gdcr"
         ],
         "name": "Budapest, Hungary",
         "coords": [
@@ -1030,6 +1045,20 @@
         "offset": 3.0,
         "country": "Romania",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-in-iasi-romania"
+        ],
+        "name": "Global Day of Coderetreat 2016 in Iasi, Romania",
+        "coords": [
+            47.1584549,
+            27.6014418
+        ],
+        "city": "Global Day of Coderetreat 2016 in Iasi"
+    },
+    {
+        "timeZone": "Europe/Bucharest",
+        "offset": 3.0,
+        "country": "Romania",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-tirgu-mures"
         ],
         "name": "Tirgu-Mures, Romania",
@@ -1038,6 +1067,20 @@
             24.5514392
         ],
         "city": "Tirgu-Mures"
+    },
+    {
+        "timeZone": "Europe/Samara",
+        "offset": 4.0,
+        "country": "Russia",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-izhevsk-russia"
+        ],
+        "name": "Izhevsk, Russia",
+        "coords": [
+            56.86186009999999,
+            53.2324285
+        ],
+        "city": "Izhevsk"
     },
     {
         "timeZone": "Europe/Moscow",
@@ -1108,6 +1151,20 @@
             31.0218404
         ],
         "city": "Durban"
+    },
+    {
+        "timeZone": "Africa/Johannesburg",
+        "offset": 2.0,
+        "country": "South Africa",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-gauteng-south-africa"
+        ],
+        "name": "Gauteng, South Africa",
+        "coords": [
+            -26.2707593,
+            28.1122679
+        ],
+        "city": "Gauteng"
     },
     {
         "timeZone": "Africa/Johannesburg",
@@ -1333,6 +1390,20 @@
             -84.3879824
         ],
         "city": "Atlanta, GA"
+    },
+    {
+        "timeZone": "America/Los_Angeles",
+        "offset": -7.0,
+        "country": "USA",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-bend-or-usa"
+        ],
+        "name": "Bend, OR, USA",
+        "coords": [
+            44.0581728,
+            -121.3153096
+        ],
+        "city": "Bend, OR"
     },
     {
         "timeZone": "America/Chicago",
