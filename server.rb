@@ -66,13 +66,12 @@ end
 
 def continent_sponsors
   [
-    Sponsor.new('8th Light', 'https://8thlight.com/'),
-    Sponsor.new('Zopa', 'http://www.zopa.com/'),
+    Sponsor.new('YOOX', 'http://http://www.yoox.com/')
   ]
 end
 
-def timezone_sponsors
+def logo_sponsors
   [
-    Sponsor.new('ThoughtWorks', 'http://www.thoughtworks.com'),
+    Sponsor.new('SmartView', 'http://smartview.io/'),
   ]
 end

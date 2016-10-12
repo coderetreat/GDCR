@@ -9,6 +9,7 @@
     &.globe .sponsor { @include span-columns(3); }
     &.continent .sponsor { @include span-columns(3);}
     &.timezone .sponsor { @include span-columns(3);}
+    &.logo .sponsor { @include span-columns(5);}
     .sponsor {
       float: left;
       img {

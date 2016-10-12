@@ -115,20 +115,25 @@
 
 <section class="sponsors">
     <div class="new-sponsor">
-        <h3>You could be a sponsor</h3>
+        <h2>We love our sponsors!</h2>
 
-        <p>
-            By becoming a global sponsor, you will have a presence in front of
-            thousands of the world's most passionate software developers.
-            For more information about our needs and sponsorship plans,
-            please
-            <a href="http://globalday.coderetreat.org/gdcr_2016_global_sponsor_prospectus.pdf">
-              download our sponsorship prospectus
-            </a>
-            and
-            <a href="mailto:gdcr@coderetreat.org?subject=GDCR%20Sponsorship">
-                contact the global event organizers.
-            </a>
-        </p>
+        <div class="sponsor-level continent">
+          <h3>Continent Sponsor</h3>
+          <div class="sponsors-container">
+            <% continent_sponsors.each do |sponsor| %>
+            <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
+            <% end %>
+          </div>
+        </div>
+
+        <div class="sponsor-level logo">
+          <h3>Logo Sponsor</h3>
+          <div class="sponsors-container">
+            <% logo_sponsors.each do |sponsor| %>
+            <%= erb :sponsor_partial, locals: {sponsor: sponsor} %>
+            <% end %>
+          </div>
+        </div>
+
     </div>
 </section>
