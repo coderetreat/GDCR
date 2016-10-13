@@ -565,6 +565,20 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hamburg-germany"
+        ],
+        "name": "Hamburg, Germany",
+        "coords": [
+            53.5510846,
+            9.9936818
+        ],
+        "city": "Hamburg"
+    },
+    {
+        "timeZone": "Europe/Berlin",
+        "offset": 2.0,
+        "country": "Germany",
+        "urls": [
             "http://coderetreat.org/events/global-day-of-coderetreat-2016-karlsruhe-germany"
         ],
         "name": "Karlsruhe, Germany",
