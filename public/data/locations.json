@@ -392,6 +392,20 @@
         "city": "Turku"
     },
     {
+        "timeZone": "America/New_York",
+        "offset": -4.0,
+        "country": "Florida",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-st-petersburg-florida"
+        ],
+        "name": "St Petersburg, Florida",
+        "coords": [
+            27.7518284,
+            -82.6267345
+        ],
+        "city": "St Petersburg"
+    },
+    {
         "timeZone": "Europe/Paris",
         "offset": 2.0,
         "country": "France",
@@ -424,7 +438,8 @@
         "offset": 2.0,
         "country": "France",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2016-paris-france"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-paris-france",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-paris-france-1"
         ],
         "name": "Paris, France",
         "coords": [
@@ -565,7 +580,8 @@
         "offset": 2.0,
         "country": "Germany",
         "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hamburg-germany"
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hamburg-germany",
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-hamburg-germany-1"
         ],
         "name": "Hamburg, Germany",
         "coords": [
@@ -844,6 +860,20 @@
         "city": "Kaunas"
     },
     {
+        "timeZone": "Europe/Vilnius",
+        "offset": 3.0,
+        "country": "Lithuania",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-vilnius-lithuania"
+        ],
+        "name": "Vilnius, Lithuania",
+        "coords": [
+            54.6871555,
+            25.2796514
+        ],
+        "city": "Vilnius"
+    },
+    {
         "timeZone": "Europe/Skopje",
         "offset": 2.0,
         "country": "Macedonia",
@@ -856,20 +886,6 @@
             21.4279956
         ],
         "city": "Skopje"
-    },
-    {
-        "timeZone": "America/Mexico_City",
-        "offset": -5.0,
-        "country": "Mexico",
-        "urls": [
-            "http://coderetreat.org/events/global-day-of-coderetreat-2016-epam-guadalajara"
-        ],
-        "name": "Guadalajara, Mexico",
-        "coords": [
-            20.6596988,
-            -103.3496092
-        ],
-        "city": "Guadalajara"
     },
     {
         "timeZone": "America/Mexico_City",
@@ -969,6 +985,20 @@
             19.0237815
         ],
         "city": "Katowice"
+    },
+    {
+        "timeZone": "Europe/Warsaw",
+        "offset": 2.0,
+        "country": "Poland",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-code-retreat-krak-w-2016"
+        ],
+        "name": "Kraków, Poland",
+        "coords": [
+            50.06465009999999,
+            19.9449799
+        ],
+        "city": "Kraków"
     },
     {
         "timeZone": "Europe/Warsaw",
@@ -1530,6 +1560,20 @@
             -117.1610838
         ],
         "city": "San Diego"
+    },
+    {
+        "timeZone": "America/Denver",
+        "offset": -6.0,
+        "country": "United States of America (USA)",
+        "urls": [
+            "http://coderetreat.org/events/global-day-of-coderetreat-2016-salt-lake-city-utah-united-states"
+        ],
+        "name": "Salt Lake City, Utah, United States of America (USA)",
+        "coords": [
+            40.7607793,
+            -111.8910474
+        ],
+        "city": "Salt Lake City, Utah"
     },
     {
         "timeZone": "America/New_York",
