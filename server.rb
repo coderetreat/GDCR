@@ -45,6 +45,7 @@ serve_pages(["hosts",
              "hosts/guide",
              "timeline-2014",
              "timeline-2015",
+             "timeline-2016",
              "training"
 ])
 
