@@ -67,7 +67,7 @@ end
 
 def continent_sponsors
   [
-    Sponsor.new('YOOX', 'http://www.yoox.com/')
+    Sponsor.new('YNAP', 'http://www.ynap.com/')
   ]
 end
 

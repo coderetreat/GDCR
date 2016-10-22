@@ -7,7 +7,7 @@
     overflow: hidden;
     &.galaxy .sponsor { @include span-columns(6); }
     &.globe .sponsor { @include span-columns(3); }
-    &.continent .sponsor { @include span-columns(3);}
+    &.continent .sponsor { @include span-columns(10);}
     &.timezone .sponsor { @include span-columns(3);}
     &.logo .sponsor { @include span-columns(5);}
     .sponsor {
