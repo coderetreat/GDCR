@@ -1,15 +1,3 @@
-# Global Day of Coderetreat
+# DEPRECATED: Global Day of Coderetreat
 
-The official site for the Global Day of Coderetreat.
-
-Browse: http://globalday.coderetreat.org
-
-## Setup
-
-  bundle install
-
-## Running Locally
-
-  rackup
-
-Browse to http://localhost:9292
+We moved the website to jekyll and GitHub pages. Please see [coderetreat/coderetreat.github.io](https://github.com/coderetreat/coderetreat.github.io) for the latest version.
